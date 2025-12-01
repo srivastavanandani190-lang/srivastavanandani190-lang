@@ -107,6 +107,9 @@
   <a href="https://leetcode.com/u/Nandani_31/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
+<a href="https://www.codechef.com/users/nandani_31">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
 
 </p>
 
