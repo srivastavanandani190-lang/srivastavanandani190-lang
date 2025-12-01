@@ -78,8 +78,7 @@
 
 ---
  
- ## 🔥 Languages Used 
-
+ ## 🔥GitHub Streak
 <p align="center">
   <a href="https://github.com/srivastavanandani190-lang" target="_blank">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=srivastavanandani190-lang&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
