@@ -36,7 +36,7 @@
 | **🎯 LeetCode Submissions** | C++ optimized DSA solutions | (https://leetcode.com/u/Nandani_31/) |
 | **🎨 Frontend Web Dev Projects** | UI Designs, Web Apps, Landing Pages | (Add link) |
 | **🤖 Python AI/ML Scripts** | Basics to intermediate models | (Add link) |
-| **🎬 Moviify Website** | Movie search + recommendation + UI | (studio-gamma-lac.vercel.app) |
+| **🎬 Moviify Website** | Movie search + recommendation + UI | (https://studio-gamma-lac.vercel.app/) |
 
 > 🌟 *More exciting projects coming soon…*
 
