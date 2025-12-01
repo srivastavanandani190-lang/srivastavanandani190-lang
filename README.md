@@ -104,6 +104,10 @@
 <a href="https://github.com/srivastavanandani190-lang"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
 <a href="https://www.linkedin.com/in/nandanisrivastava"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
 <a href="https://enchanting-starburst-d1026d.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=web"/></a>
+  <a href="https://leetcode.com/u/Nandani_31/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
 </p>
 
 ---
