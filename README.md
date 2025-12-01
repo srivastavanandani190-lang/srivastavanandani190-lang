@@ -85,9 +85,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=srivastavanandani190-lang&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
   </a>
   &nbsp;
-  <a href="https://github.com/srivastavanandani190-lang" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190-lang&layout=compact&hide_border=true" alt="Top Languages" />
-  </a>
+   
 </p>
 
 
