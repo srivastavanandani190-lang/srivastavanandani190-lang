@@ -2,7 +2,7 @@
 <!-- 🌈 HOLOGRAPHIC ANIMATED HEADER -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=36&duration=3000&pause=1200&color=00B0F0&center=true&vCenter=true&width=1000&height=90&lines=Hey+There+👋,+I'm+Nandani+Srivastava!;Full+Stack+Developer+🚀;Inspired+by+macOS+Sonoma+🍏;Smooth+Clean+Elegant+UI" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1200&color=00FFF7&center=true&vCenter=true&width=1000&height=90&lines=Hey+There+👋,+I'm+Nandani+Srivastava!;Cyberpunk+Developer+🔥;MERN+%7C+DSA+%7C+Cybersecurity;Neon+Future+Coder+⚡" 
   />
 </p>
 
