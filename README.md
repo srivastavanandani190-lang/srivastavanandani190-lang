@@ -10,17 +10,7 @@
 
 ---
 
-👩‍💻 **About Me**
-
-<div align="center">
-  
-💫 *Curiosity-driven CSE Student exploring tech one project at a time!*  
-
-🌱 Learning: **MERN**, **Cybersecurity tools**, **System Level Dev**, **DevOps basics**  
-💼 Passion: **Full Stack Dev**, **DSA (C++)**, **Networking**, **Open-source**  
-🎯 Goal: *Build reliable, scalable & secure products*  
-
-</div>
+# 👩‍💻 *About Me* 🎓 CSE Student — ABES Engineering College, Ghaziabad 💻 Interests: **Full Stack Development | DSA (C++) | Cybersecurity | Networking | Python** 🌱 Currently Learning: **MERN Stack, System Level Development, Cybersecurity Tools** 🚀 Passionate about **open-source, building products, problem-solving & innovation** ✨ Motto: *"Curiosity fuels progress!"*
 
 ---
 
