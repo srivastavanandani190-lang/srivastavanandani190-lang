@@ -67,9 +67,7 @@
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavanandani190-lang&theme=react-dark&hide_border=true&area=true" width="95%"/>
 
-<!-- Snake Animation -->
-<img src="https://github.com/srivastavanandani190-lang/srivastavanandani190-lang/blob/output/github-contribution-grid-snake.svg"/>
-
+ 
 </div>
 
 ---
