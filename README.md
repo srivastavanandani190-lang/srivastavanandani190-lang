@@ -75,10 +75,12 @@
 
 ---
 
-# 🔥 **GitHub Streak**
+# 🔥 **Streak Stats**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srivastavanandani190-lang&theme=highcontrast&hide_border=true" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=srivastavanandani190-lang&theme=transparent&hide_border=true&stroke=DDDDDD&ring=7D7D7D&fire=6E6E73&currStreakLabel=7D7D7D"
+/>
 </p>
 
 ---
