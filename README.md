@@ -42,14 +42,31 @@
 
 ---
 
-# 📊 **GitHub Analytics Dashboard**
+## 📊 GitHub Stats & Analytics
 
 <div align="center">
 
-<!-- GitHub Stats (3D Gradient) -->
-<img src="https://github-readme-stats.vercel.app/api?username=srivastavanandani190-lang&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<!-- GitHub Stats -->
+<img 
+     src="https://github-readme-stats.vercel.app/api?username=srivastavanandani190-lang&show_icons=true&theme=radical" 
+     height="180px"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190-lang&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<!-- Top Languages -->
+<img 
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190-lang&layout=compact&theme=radical" 
+     height="180px"
+/>
+
+</div>
+
+<div align="center">
+
+<!-- Streak Stats -->
+<img 
+     src="https://streak-stats.demolab.com/?user=srivastavanandani190-lang&theme=radical" 
+     height="180px"
+/>
 
 </div>
 
