@@ -11,11 +11,11 @@
 ---
 
 # 👩‍💻 *About Me* 
-🎓 CSE Student — ABES Engineering College, Ghaziabad 
-💻 Interests:Full Stack Development | DSA (C++) | Cybersecurity | Networking | Python
-🌱 Currently Learning: **MERN Stack, System Level Development, Cybersecurity Tools** 
-🚀 Passionate about **open-source, building products, problem-solving & innovation** 
-✨ Motto:"Curiosity fuels progress!"
+🎓 CSE Student — **ABES Engineering College, Ghaziabad** /
+💻 Interests:**Full Stack Development | DSA (C++) | Cybersecurity | Networking | Python**/
+🌱 Currently Learning: **MERN Stack, System Level Development, Cybersecurity Tools** /
+🚀 Passionate about **open-source, building products, problem-solving & innovation**/ 
+✨ Motto:**"Curiosity fuels progress!"**
 
 ---
 
