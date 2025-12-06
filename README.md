@@ -2,11 +2,10 @@
 <!-- 🌈 HOLOGRAPHIC ANIMATED HEADER -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=34&duration=3000&pause=1200&color=FF4DA6&center=true&vCenter=true&width=1000&height=90&lines=Hey+There+👋,+I'm+Nandani+Srivastava!;Frontend+%26+Full+Stack+Developer;Pink+Power+💖;Elegant+Creative+Code+✨" 
+    src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=800&size=36&duration=3000&pause=1200&color=9D4DFF&center=true&vCenter=true&width=1000&height=90&lines=Hey+There+👋,+I'm+Nandani+Srivastava!;Explorer+of+Code+%26+Cosmos+✨;MERN+Developer+🚀;Dreaming+Among+Stars+🌌" 
   />
 </p>
 
- 
 
 
 
