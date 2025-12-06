@@ -79,8 +79,9 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=srivastavanandani190-lang&theme=transparent&hide_border=true&stroke=DDDDDD&ring=7D7D7D&fire=6E6E73&currStreakLabel=7D7D7D"
-/>
+    src="https://github-readme-streak-stats.herokuapp.com/?user=srivastavanandani190-lang&theme=github-dark&hide_border=true"
+    style="filter: drop-shadow(0px 0px 6px #00000090);"
+  />
 </p>
 
 ---
