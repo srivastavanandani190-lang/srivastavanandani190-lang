@@ -1,10 +1,13 @@
 <!-- ============================================= -->
 <!-- 🌈 HOLOGRAPHIC ANIMATED HEADER -->
-<p align="center">
+ 
+ <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&weight=700&size=36&duration=3000&pause=1200&color=A020F0&center=true&vCenter=true&width=1000&height=90&lines=Hey+There+👋,+I'm+Nandani+Srivastava!;CSE+Student+%40+ABES+Engineering+College;Full+Stack+Developer+🚀;MERN+%7C+DSA(C%2B%2B)+%7C+Cybersecurity;Building+%F0%9F%9A%80+Learning+%F0%9F%92%A1+Growing+%F0%9F%8C%B1" 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=36&duration=3000&pause=1200&color=FF6B6B&center=true&vCenter=true&width=1000&height=90&lines=Hey+There+👋,+I'm+Nandani+Srivastava!;CSE+Student+%40+ABES+Engineering+College;Full+Stack+Developer+🚀;MERN+%7C+DSA(C%2B%2B)+%7C+Cybersecurity;Building+%F0%9F%9A%80+Learning+%F0%9F%92%A1+Growing+%F0%9F%8C%B1" 
   />
 </p>
+
+
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
@@ -59,9 +62,7 @@
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavanandani190-lang&theme=react-dark&hide_border=true&area=true" width="95%"/>
 
-<!-- Snake Animation -->
-<img src="https://github.com/srivastavanandani190-lang/srivastavanandani190-lang/blob/output/github-contribution-grid-snake.svg"/>
-
+ 
 </div>
 
 ---
