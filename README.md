@@ -42,32 +42,11 @@
 
 ---
 
-## 📊 GitHub Stats & Analytics
-
-<div align="center">
-
-<!-- GitHub Stats -->
-<img 
-     src="https://github-readme-stats.vercel.app/api?username=srivastavanandani190-lang&show_icons=true&theme=radical" 
-     height="180px"
-/>
-
-<!-- Top Languages -->
-<img 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190-lang&layout=compact&theme=radical" 
-     height="180px"
-/>
-
-</div>
-
-<div align="center">
-
-<!-- Streak Stats -->
-<img 
-     src="https://streak-stats.demolab.com/?user=srivastavanandani190-lang&theme=radical" 
-     height="180px"
-/>
-
+# 📊 GitHub Stats & Analytics
+<div align="center"> 
+  <!-- <img src="https://github-readme-stats-livid-ten.vercel.app/api?username=srivastavanandani190-lang&theme=radical" />
+  <img src="https://git-hub-stats-alpha.vercel.app/api?username=srivastavanandani190-lang&theme=radical" /> -->
+  <img src="https://stats.dooboo.io/api/github-stats?login=srivastavanandani190-lang" />
 </div>
 
 ---
