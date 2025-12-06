@@ -1,37 +1,60 @@
-<!-- macOS Sonoma Gradient Header -->
-<div align="center">
+<!-- iPadOS Sidebar Layout Header -->
+<div style="
+    display: flex; 
+    width: 100%; 
+    border-radius: 18px;
+    overflow: hidden;
+    box-shadow: 0 0 25px rgba(0,0,0,0.15);
+">
 
-<img 
-     src="https://raw.githubusercontent.com/rajshekhar26/macOS-Sonoma-Wallpapers/main/Light/macOS%20Sonoma%20Light%20Default.jpeg" 
-     width="100%" 
-     style="border-radius: 12px; box-shadow: 0 0 20px rgba(255,255,255,0.25);" />
+  <!-- Sidebar -->
+  <div style="
+      width: 260px; 
+      background: #f5f5f7; 
+      padding: 24px;
+      font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif;
+      border-right: 1px solid #e2e2e7;
+  ">
 
-<br><br>
+  <h2 style="margin-top: 0;">📂 Menu</h2>
 
-# 🌄 **Web Frontend Kit — macOS Sonoma Edition**
-### *A clean, glossy and modern journey through HTML, CSS, JS & React — inspired by Apple design*
-</div>
+  <ul style="list-style:none; padding-left:0; line-height: 1.9;">
+    <li>🏠 Home</li>
+    <li>📘 HTML</li>
+    <li>🎨 CSS</li>
+    <li>⚡ JavaScript</li>
+    <li>⚛️ React</li>
+    <li>🧪 Projects</li>
+    <li>📄 Notes</li>
+  </ul>
 
----
+  </div>
 
-## 🍎 **About This Repo**
-Inspired by the smooth gradients and minimal aesthetics of **macOS Sonoma**, this repo tracks my entire learning journey into frontend development — presented in a clean, elegant Apple-style layout.
+  <!-- Main Content -->
+  <div style="flex: 1; background: #ffffff; padding: 32px;">
 
----
+  <h1 style="margin-top: 0; font-size: 34px;">📱 Web Frontend Kit — iPadOS Edition</h1>
 
-## 🎨 **Tech Stack**
-<div align="center">
+  <p style="font-size: 18px; color: #555;">
+    A clean iPad-style portfolio layout tracking my journey through HTML, CSS, JavaScript, and React.
+    Minimal UI, soft shadows, and Apple-grade typography.
+  </p>
 
-| HTML | CSS | JavaScript | React |
-|------|------|------------|--------|
-| 🟥 | 🟦 | 🟨 | ⚛️ |
+  <hr style="border: none; height: 1px; background: #eee; margin: 24px 0;">
 
-</div>
+  <h2>✨ Tech Stack</h2>
+  <table>
+    <tr>
+      <td>🟥 HTML</td>
+      <td>🟦 CSS</td>
+      <td>🟨 JavaScript</td>
+      <td>⚛️ React</td>
+    </tr>
+  </table>
 
----
+  <br>
 
-## 🌈 **Sonoma Gradient Timeline**
-A smooth, Apple-style gradient flow representing the roadmap:
+  <h2>🧭 Roadmap</h2>
 
-```text
-HTML → CSS → JavaScript → DOM → ES6 → Async JS → Git/GitHub → React → API Integration → Projects
+  ```text
+  HTML → CSS → JavaScript → DOM → GitHub → ES6 → APIs → React → Frontend Projects
