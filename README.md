@@ -26,7 +26,7 @@
 # 🛠 **Tech Stack – My Arsenal**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,mongodb,tailwind,git,github,linux,bash,vscode,postman,figma,netlify,vercel" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,mongodb,tailwind,git,github,linux,bash,vscode" />
 </p>
 
 ---
