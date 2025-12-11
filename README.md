@@ -75,7 +75,7 @@
 
 ---
 
-# 🔥 **Streak Stats**
+# 🔥 **Streak Status**
 
 <p align="center">
   <img 
