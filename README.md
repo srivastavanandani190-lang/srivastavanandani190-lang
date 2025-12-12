@@ -79,7 +79,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=srivastavanandani190-lang&theme=github-dark&hide_border=true"
+    src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=github-dark&hide_border=true"
     style="filter: drop-shadow(0px 0px 6px #00000090);"
   />
 </p>
