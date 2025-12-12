@@ -76,13 +76,13 @@
 ---
 
 # 🔥 **Streak Status**
-
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=github-dark&hide_border=true"
+  <img
+    src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=dracula&hide_border=true"
     style="filter: drop-shadow(0px 0px 6px #00000090);"
   />
 </p>
+
 
 ---
 
