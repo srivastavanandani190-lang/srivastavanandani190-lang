@@ -67,14 +67,7 @@
 
 ---
 
-# 🏆 **Achievements & Trophies**
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=srivastavanandani190-lang&theme=dracula&margin-w=10&margin-h=10&no-frame=true" />
-</div>
-
----
-
+ 
 # 🔥 **Streak Status**
 <p align="center">
   <img
