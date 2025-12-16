@@ -57,24 +57,27 @@
 
 ---
 
-## 🔥 GitHub Streak
+## ⚡ Consistency Meter
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=srivastavanandani190-lang
-    &theme=dark
-    &background=0D1117
-    &ring=00FF9C
-    &fire=FF8C00
-    &currStreakNum=00FF9C
-    &sideNums=FFFFFF
-    &currStreakLabel=00FF9C
-    &sideLabels=C9D1D9
-    &dates=8B949E
-    &hide_border=true"
-    width="420"
-  />
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=srivastavanandani190-lang
+&theme=transparent
+&background=00000000
+&ring=7C4DFF
+&fire=00E5FF
+&currStreakNum=7C4DFF
+&sideNums=FFFFFF
+&currStreakLabel=00E5FF
+&sideLabels=AAAAAA
+&dates=CCCCCC
+&hide_border=true" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%"/>
+
+</div>
 
 ---
 
