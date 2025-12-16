@@ -60,7 +60,20 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=dracula&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com?user=srivastavanandani190-lang
+    &theme=dark
+    &background=0D1117
+    &ring=00FF9C
+    &fire=FF8C00
+    &currStreakNum=00FF9C
+    &sideNums=FFFFFF
+    &currStreakLabel=00FF9C
+    &sideLabels=C9D1D9
+    &dates=8B949E
+    &hide_border=true"
+    width="420"
+  />
 </p>
 
 ---
