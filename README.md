@@ -57,27 +57,12 @@
 
 ---
 
-## ⚡ Consistency Meter
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=srivastavanandani190-lang
-&theme=transparent
-&background=00000000
-&ring=7C4DFF
-&fire=00E5FF
-&currStreakNum=7C4DFF
-&sideNums=FFFFFF
-&currStreakLabel=00E5FF
-&sideLabels=AAAAAA
-&dates=CCCCCC
-&hide_border=true" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%"/>
-
-</div>
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=dracula&hide_border=true"
+    height="190"
+  />
+</p>
 
 ---
 
