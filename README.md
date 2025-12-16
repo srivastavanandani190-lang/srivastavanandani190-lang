@@ -56,7 +56,7 @@
 </p>
 
 ---
-##  Github Streak
+## 🔥 Github Streak
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=dracula&hide_border=true"
