@@ -56,10 +56,19 @@
 </p>
 
 ---
-
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=dracula&hide_border=true"
+    src="https://streak-stats.demolab.com?user=srivastavanandani190-lang
+    &theme=dark
+    &background=0D1117
+    &ring=00FF9C
+    &fire=FF6B00
+    &currStreakNum=00FF9C
+    &sideNums=58A6FF
+    &currStreakLabel=7DF9FF
+    &sideLabels=C9D1D9
+    &dates=8B949E
+    &hide_border=true"
     height="190"
   />
 </p>
