@@ -71,6 +71,10 @@
 <!-- 🎯 CURRENT FOCUS SECTION -->
 <!-- ================================ -->
 
+<!-- ================================ -->
+<!-- 🎯 CURRENT FOCUS SECTION -->
+<!-- ================================ -->
+
 ## 🎯 Current Focus & Learning Path 🚀  
 
 <p align="center">
@@ -78,6 +82,45 @@
     src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=28&pause=1200&color=00FF9C&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Development;Python+AI+%26+Machine+Learning;Cybersecurity+%26+Networking;DSA+%26+Problem+Solving+in+C%2B%2B;JavaScript+Mastery;Git+%26+GitHub;Exploring+Emerging+Technologies"
     alt="Typing SVG"
   />
+</p>
+
+---
+
+### 🧩 Tech Stack & Tools ⚙️
+
+<p align="center">
+
+<!-- Web Dev -->
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=white"/>
+
+<br/>
+
+<!-- Programming -->
+<img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+
+<br/>
+
+<!-- AI / ML -->
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243"/>
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458"/>
+
+<br/>
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+
+<br/>
+
+<!-- Security -->
+<img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=securityscorecard&logoColor=00FF9C"/>
+
 </p>
 
 ---
@@ -94,16 +137,10 @@
 🛡️ Understanding system security & threats  
 
 💻 **DSA & Problem Solving (C++)**  
-⚡ Strengthening logic, performance & efficiency  
+⚡ Strengthening logic & performance  
 
-📜 **JavaScript**  
-🚀 From fundamentals to modern frameworks  
-
-🛠️ **Git & GitHub**  
-🔄 Version control, collaboration & open-source  
-
-🚀 **Other Emerging Technologies**  
-🌱 Always exploring what’s next  
+🚀 **Exploring Emerging Technologies**  
+🌱 Always learning what’s next  
 
 </div>
 
