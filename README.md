@@ -63,10 +63,10 @@
     height="190"
   />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190-lang&layout=compact&bg_color=111827&title_color=60A5FA&text_color=D1D5DB&icon_color=93C5FD&hide_border=true&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190-lang&layout=compact&bg_color=0B1220&title_color=38BDF8&text_color=E5E7EB&icon_color=22D3EE&hide_border=true&langs_count=6" />
 </p>
+
 
 
 ---
