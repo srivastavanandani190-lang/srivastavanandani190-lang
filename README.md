@@ -63,12 +63,11 @@
     height="190"
   />
 </p>
-## 💻 Most Used Languages
+## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190-lang&layout=compact&bg_color=0D1117&title_color=FF79C6&text_color=E6EDF3&icon_color=79C0FF&hide_border=true&langs_count=6" />
 </p>
-
 
 
 ---
