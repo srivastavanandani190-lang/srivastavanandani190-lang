@@ -68,83 +68,71 @@
 ---
 
 <!-- ================================ -->
-<!-- 🎯 CURRENT FOCUS SECTION -->
+<!-- 🛣️ LEARNING ROADMAP / TIMELINE -->
 <!-- ================================ -->
 
-<!-- ================================ -->
-<!-- 🎯 CURRENT FOCUS SECTION -->
-<!-- ================================ -->
-
-## 🎯 Current Focus & Learning Path 🚀  
+## 🛣️ Learning Roadmap & Tech Timeline 🚀  
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=28&pause=1200&color=00FF9C&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Development;Python+AI+%26+Machine+Learning;Cybersecurity+%26+Networking;DSA+%26+Problem+Solving+in+C%2B%2B;JavaScript+Mastery;Git+%26+GitHub;Exploring+Emerging+Technologies"
+    src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=26&pause=1200&color=00FF9C&center=true&vCenter=true&width=1000&lines=Learning+with+Consistency;Building+Skills+Step+by+Step;From+Foundations+to+Industry+Ready"
     alt="Typing SVG"
   />
 </p>
 
 ---
 
-### 🧩 Tech Stack & Tools ⚙️
+### 🟢 Phase 1: Core Foundations 🧱  
+📜 **HTML • CSS • JavaScript**  
+💻 **DSA & Problem Solving (C++)**  
+🛠️ **Git & GitHub**  
+📚 Programming fundamentals & logic building  
 
-<p align="center">
+⬇️
 
-<!-- Web Dev -->
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933"/>
-<img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=white"/>
+### 🔵 Phase 2: Full Stack Development 🌐  
+⚛️ **React.js**  
+🟢 **Node.js • Express.js**  
+🗄️ **Databases (MongoDB / SQL basics)**  
+🧩 Building real-world full stack applications  
 
-<br/>
+⬇️
 
-<!-- Programming -->
-<img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+### 🟣 Phase 3: Python, AI & ML 🤖  
+🐍 **Python Programming**  
+📊 **NumPy • Pandas**  
+🧠 **Machine Learning fundamentals**  
+📈 Data analysis & intelligent systems  
 
-<br/>
+⬇️
 
-<!-- AI / ML -->
-<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243"/>
-<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458"/>
+### 🔴 Phase 4: Cybersecurity & Networking 🔐  
+🌐 **Computer Networks**  
+🛡️ **Cybersecurity fundamentals**  
+🔍 Understanding threats, attacks & defenses  
 
-<br/>
+⬇️
 
-<!-- Tools -->
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+### 🟡 Phase 5: Emerging Technologies 🚀  
+☁️ **Cloud & DevOps basics**  
+⚙️ **System design fundamentals**  
+🌱 Exploring new & trending technologies  
 
-<br/>
+⬇️
 
-<!-- Security -->
-<img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=securityscorecard&logoColor=00FF9C"/>
-
-</p>
+### ⭐ Phase 6: Industry Readiness 💼  
+🚀 **Major Projects & Case Studies**  
+📄 **Resume & Portfolio building**  
+🌍 **Open Source & GitHub contributions**  
 
 ---
 
-<div align="center">
-
-🌐 **Full Stack Web Development**  
-✨ Building scalable, real-world applications  
-
-🤖 **Python • AI & Machine Learning**  
-🧠 Creating intelligent, data-driven solutions  
-
-🔐 **Cybersecurity & Networking**  
-🛡️ Understanding system security & threats  
-
-💻 **DSA & Problem Solving (C++)**  
-⚡ Strengthening logic & performance  
-
-🚀 **Exploring Emerging Technologies**  
-🌱 Always learning what’s next  
-
-</div>
+<p align="center">
+  ✨ <strong>Learning. Building. Growing. One step at a time.</strong> ✨
+</p>
 
 <!-- ================================ -->
+
 
 ---
 
