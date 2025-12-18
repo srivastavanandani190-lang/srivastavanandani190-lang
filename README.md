@@ -189,17 +189,7 @@
 
 📊 **Progress:** ▱▱▱▱▱▱▱▱▱▱ Coming Soon...
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
-
-<p align="center">
-✨ <strong>Learning. Building. Growing. One milestone closer to excellence.</strong> ✨  
-</p>
-
-<!-- ================================ -->
+ 
 
 
 ---
