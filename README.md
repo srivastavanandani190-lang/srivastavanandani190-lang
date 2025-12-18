@@ -99,13 +99,13 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
 </p>
 
-- ✅ Programming fundamentals & logic building  
-- ✅ DSA & problem solving (C++)  
-- ✅ Git, GitHub & version control  
+📜 **HTML • CSS • JavaScript** 
+💻 **DSA & Problem Solving (C++)** 
+🛠️ **Git & GitHub** 
+📚 Programming fundamentals & logic building
 
 📊 **Progress:** ▰▰▰▰▰▰▰▱▱▱ 70%
 
-⬇️⬇️⬇️
 
 ---
 
@@ -117,14 +117,11 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
 </p>
 
-- ⚛️ Modern UI with React  
-- 🧠 Backend APIs with Node & Express  
-- 🗄️ Database fundamentals (MongoDB / SQL)  
-- 🧩 Real-world full stack projects  
-
+⚛️ **React.js** 
+🟢 **Node.js • Express.js** 
+🗄️ **Databases (MongoDB / SQL basics)** 
+🧩 Building real-world full stack applications
 📊 **Progress:** ▰▰▰▰▰▱▱▱▱▱ 50%
-
-⬇️⬇️⬇️
 
 ---
 
@@ -142,7 +139,7 @@
 
 📊 **Progress:** ▰▰▰▱▱▱▱▱▱▱ 30%
 
-⬇️⬇️⬇️
+
 
 ---
 
@@ -158,7 +155,6 @@
 
 📊 **Progress:** ▰▰▱▱▱▱▱▱▱▱ 20%
 
-⬇️⬇️⬇️
 
 ---
 
@@ -174,7 +170,6 @@
 
 📊 **Progress:** ▰▱▱▱▱▱▱▱▱▱ 10%
 
-⬇️⬇️⬇️
 
 ---
 
