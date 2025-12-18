@@ -71,64 +71,132 @@
 <!-- 🛣️ LEARNING ROADMAP / TIMELINE -->
 <!-- ================================ -->
 
-## 🛣️ Learning Roadmap & Tech Timeline 🚀  
+<!-- ================================================= -->
+<!-- 🌈 ULTRA ANIMATED ROADMAP HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=30&pause=1200&color=00FFD1&center=true&vCenter=true&width=1100&height=90&lines=Learning+with+Consistency+🚀;Building+Skills+Step+by+Step+🧠;From+Foundations+to+Industry+Ready+💼" />
+</p>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=26&pause=1200&color=00FF9C&center=true&vCenter=true&width=1000&lines=Learning+with+Consistency;Building+Skills+Step+by+Step;From+Foundations+to+Industry+Ready"
-    alt="Typing SVG"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 </p>
 
 ---
 
-### 🟢 Phase 1: Core Foundations 🧱  
-📜 **HTML • CSS • JavaScript**  
-💻 **DSA & Problem Solving (C++)**  
-🛠️ **Git & GitHub**  
-📚 Programming fundamentals & logic building  
+## 🛣️ **Learning Roadmap & Tech Timeline** 🚀  
+<p align="center">
+✨ <i>Transforming curiosity into capability — one milestone at a time.</i> ✨
+</p>
 
-⬇️
+---
 
-### 🔵 Phase 2: Full Stack Development 🌐  
-⚛️ **React.js**  
-🟢 **Node.js • Express.js**  
-🗄️ **Databases (MongoDB / SQL basics)**  
-🧩 Building real-world full stack applications  
+## 🟢 **Phase 1: Core Foundations** 🧱  
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
+</p>
 
-⬇️
+- ✅ Programming fundamentals & logic building  
+- ✅ DSA & problem solving (C++)  
+- ✅ Git, GitHub & version control  
 
-### 🟣 Phase 3: Python, AI & ML 🤖  
-🐍 **Python Programming**  
-📊 **NumPy • Pandas**  
-🧠 **Machine Learning fundamentals**  
-📈 Data analysis & intelligent systems  
+📊 **Progress:** ▰▰▰▰▰▰▰▱▱▱ 70%
 
-⬇️
+⬇️⬇️⬇️
 
-### 🔴 Phase 4: Cybersecurity & Networking 🔐  
-🌐 **Computer Networks**  
-🛡️ **Cybersecurity fundamentals**  
-🔍 Understanding threats, attacks & defenses  
+---
 
-⬇️
+## 🔵 **Phase 2: Full Stack Development** 🌐  
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+</p>
 
-### 🟡 Phase 5: Emerging Technologies 🚀  
-☁️ **Cloud & DevOps basics**  
-⚙️ **System design fundamentals**  
-🌱 Exploring new & trending technologies  
+- ⚛️ Modern UI with React  
+- 🧠 Backend APIs with Node & Express  
+- 🗄️ Database fundamentals (MongoDB / SQL)  
+- 🧩 Real-world full stack projects  
 
-⬇️
+📊 **Progress:** ▰▰▰▰▰▱▱▱▱▱ 50%
 
-### ⭐ Phase 6: Industry Readiness 💼  
-🚀 **Major Projects & Case Studies**  
-📄 **Resume & Portfolio building**  
-🌍 **Open Source & GitHub contributions**  
+⬇️⬇️⬇️
+
+---
+
+## 🟣 **Phase 3: Python, AI & ML** 🤖  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+</p>
+
+- 🐍 Python programming  
+- 📊 Data analysis (NumPy, Pandas)  
+- 🧠 Machine Learning fundamentals  
+- 📈 Smart & data-driven systems  
+
+📊 **Progress:** ▰▰▰▱▱▱▱▱▱▱ 30%
+
+⬇️⬇️⬇️
+
+---
+
+## 🔴 **Phase 4: Cybersecurity & Networking** 🔐  
+<p align="center">
+  <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-red?style=for-the-badge&logo=securityscorecard"/>
+</p>
+
+- 🌐 Computer networks  
+- 🛡️ Cybersecurity fundamentals  
+- 🔍 Threats, attacks & defenses  
+
+📊 **Progress:** ▰▰▱▱▱▱▱▱▱▱ 20%
+
+⬇️⬇️⬇️
+
+---
+
+## 🟡 **Phase 5: Emerging Technologies** 🚀  
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud"/>
+  <img src="https://img.shields.io/badge/DevOps-0F172A?style=for-the-badge&logo=devops"/>
+</p>
+
+- ☁️ Cloud & DevOps basics  
+- ⚙️ System design fundamentals  
+- 🌱 Exploring trending technologies  
+
+📊 **Progress:** ▰▱▱▱▱▱▱▱▱▱ 10%
+
+⬇️⬇️⬇️
+
+---
+
+## ⭐ **Phase 6: Industry Readiness** 💼  
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects-FFD700?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github"/>
+</p>
+
+- 🚀 Major projects & case studies  
+- 📄 Resume & portfolio building  
+- 🌍 Open-source & GitHub contributions  
+
+📊 **Progress:** ▱▱▱▱▱▱▱▱▱▱ Coming Soon...
 
 ---
 
 <p align="center">
-  ✨ <strong>Learning. Building. Growing. One step at a time.</strong> ✨
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
+
+<p align="center">
+✨ <strong>Learning. Building. Growing. One milestone closer to excellence.</strong> ✨  
 </p>
 
 <!-- ================================ -->
