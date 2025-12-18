@@ -67,13 +67,47 @@
 
 ---
 
-## 🎯 Current Focus
+<!-- ================================ -->
+<!-- 🎯 CURRENT FOCUS SECTION -->
+<!-- ================================ -->
 
-- 🚀 Building **industry-ready full stack projects**
-- 🧠 Strengthening **DSA & problem-solving in C++**
-- 🔐 Exploring **Cybersecurity & Networking**
-- ⚙️ Mastering **MERN Stack**
-- ☁️ Starting **Cloud & DevOps fundamentals**
+## 🎯 Current Focus & Learning Path 🚀  
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=28&pause=1200&color=00FF9C&center=true&vCenter=true&width=1000&lines=Full+Stack+Web+Development;Python+AI+%26+Machine+Learning;Cybersecurity+%26+Networking;DSA+%26+Problem+Solving+in+C%2B%2B;JavaScript+Mastery;Git+%26+GitHub;Exploring+Emerging+Technologies"
+    alt="Typing SVG"
+  />
+</p>
+
+---
+
+<div align="center">
+
+🌐 **Full Stack Web Development**  
+✨ Building scalable, real-world applications  
+
+🤖 **Python • AI & Machine Learning**  
+🧠 Creating intelligent, data-driven solutions  
+
+🔐 **Cybersecurity & Networking**  
+🛡️ Understanding system security & threats  
+
+💻 **DSA & Problem Solving (C++)**  
+⚡ Strengthening logic, performance & efficiency  
+
+📜 **JavaScript**  
+🚀 From fundamentals to modern frameworks  
+
+🛠️ **Git & GitHub**  
+🔄 Version control, collaboration & open-source  
+
+🚀 **Other Emerging Technologies**  
+🌱 Always exploring what’s next  
+
+</div>
+
+<!-- ================================ -->
 
 ---
 
