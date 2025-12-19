@@ -84,7 +84,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=30&pause=1200&color=00FFD1&center=true&vCenter=true&width=1100&height=90&lines=Learning+with+Consistency+🚀;Building+Skills+Step+by+Step+🧠;From+Foundations+to+Industry+Ready+💼" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=30&pause=1200&color=00FF9C&center=true&vCenter=true&width=1100&height=90&lines=Learning+with+Consistency+🚀;Building+Skills+Step+by+Step+🧠;From+Foundations+to+Industry+Ready+💼" />
 </p>
 
 <p align="center">
