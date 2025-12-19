@@ -107,10 +107,6 @@
 - 💻 **DSA & Problem Solving (C++)** 
 - 🛠️ **Git & GitHub** 
 - 📚 Programming fundamentals & logic building
-
-📊 **Progress:** ▰▰▰▰▰▰▰▱▱▱ 70%
-
-
 ---
 
 ## 🔵 **Phase 2: Full Stack Development** 🌐  
@@ -125,8 +121,6 @@
 - 🟢 **Node.js • Express.js** 
 - 🗄️ **Databases (MongoDB / SQL basics)** 
 - 🧩 Building real-world full stack applications
-- 📊 **Progress:** ▰▰▰▰▰▱▱▱▱▱ 50%
-
 ---
 
 ## 🟣 **Phase 3: Python, AI & ML** 🤖  
@@ -140,11 +134,6 @@
 - 📊 Data analysis (NumPy, Pandas)  
 - 🧠 Machine Learning fundamentals  
 - 📈 Smart & data-driven systems  
-
-📊 **Progress:** ▰▰▰▱▱▱▱▱▱▱ 30%
-
-
-
 ---
 
 ## 🔴 **Phase 4: Cybersecurity & Networking** 🔐  
@@ -156,10 +145,6 @@
 - 🌐 Computer networks  
 - 🛡️ Cybersecurity fundamentals  
 - 🔍 Threats, attacks & defenses  
-
-📊 **Progress:** ▰▰▱▱▱▱▱▱▱▱ 20%
-
-
 ---
 
 ## 🟡 **Phase 5: Emerging Technologies** 🚀  
@@ -171,10 +156,6 @@
 - ☁️ Cloud & DevOps basics  
 - ⚙️ System design fundamentals  
 - 🌱 Exploring trending technologies  
-
-📊 **Progress:** ▰▱▱▱▱▱▱▱▱▱ 10%
-
-
 ---
 
 ## ⭐ **Phase 6: Industry Readiness** 💼  
@@ -186,12 +167,7 @@
 - 🚀 Major projects & case studies  
 - 📄 Resume & portfolio building  
 - 🌍 Open-source & GitHub contributions  
-
-📊 **Progress:** ▱▱▱▱▱▱▱▱▱▱ Coming Soon...
-
  
-
-
 ---
 
 ## 🌐 Connect With Me
