@@ -8,7 +8,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻About Me
 
 🎓 **Computer Science Engineering Student** at **ABES Engineering College, Ghaziabad**  
 💡 Passionate about **Full Stack Development, DSA (C++), Cybersecurity & Networking**  
@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,mongodb,tailwind,git,github,linux,mysql,bash,vscode&perline=8" />
@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀Featured Projects
 
 <div align="center">
 
@@ -41,7 +41,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊GitHub Analytics
 
 <p align="center">
   <img src="https://stats.dooboo.io/api/github-stats?login=srivastavanandani190-lang" height="180"/>
@@ -49,14 +49,14 @@
 
 ---
 
-## 🌌 Contribution Activity
+## 🌌Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavanandani190-lang&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </p>
 
 ---
-## 🔥 Github Streak
+## 🔥Github Streak
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=dracula&hide_border=true"
@@ -77,7 +77,7 @@
 
 <!-- ================================================= -->
 <!-- 🌈 ULTRA ANIMATED ROADMAP HEADER -->
-## 🛣️ **Learning Roadmap & Tech Timeline** 🚀  
+## 🛣️**Learning Roadmap & Tech Timeline** 🚀  
 <p align="center">
 ✨ <i>Transforming curiosity into capability — one milestone at a time.</i> ✨
 </p>
@@ -95,7 +95,7 @@
 
 
 
-## 🟢 **Phase 1: Core Foundations** 🧱  
+## 🟢**Phase 1: Core Foundations**🧱  
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
@@ -109,7 +109,7 @@
 - 📚 Programming fundamentals & logic building
 ---
 
-## 🔵 **Phase 2: Full Stack Development** 🌐  
+## 🔵**Phase 2: Full Stack Development**🌐  
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
@@ -123,7 +123,7 @@
 - 🧩 Building real-world full stack applications
 ---
 
-## 🟣 **Phase 3: Python, AI & ML** 🤖  
+## 🟣**Phase 3: Python, AI & ML**🤖  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
@@ -136,7 +136,7 @@
 - 📈 Smart & data-driven systems  
 ---
 
-## 🔴 **Phase 4: Cybersecurity & Networking** 🔐  
+## 🔴**Phase 4: Cybersecurity & Networking**🔐  
 <p align="center">
   <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco"/>
   <img src="https://img.shields.io/badge/Cybersecurity-red?style=for-the-badge&logo=securityscorecard"/>
@@ -147,7 +147,7 @@
 - 🔍 Threats, attacks & defenses  
 ---
 
-## 🟡 **Phase 5: Emerging Technologies** 🚀  
+## 🟡**Phase 5: Emerging Technologies**🚀  
 <p align="center">
   <img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud"/>
   <img src="https://img.shields.io/badge/DevOps-0F172A?style=for-the-badge&logo=devops"/>
@@ -158,7 +158,7 @@
 - 🌱 Exploring trending technologies  
 ---
 
-## ⭐ **Phase 6: Industry Readiness** 💼  
+## ⭐**Phase 6: Industry Readiness**💼  
 <p align="center">
   <img src="https://img.shields.io/badge/Projects-FFD700?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github"/>
@@ -170,7 +170,7 @@
  
 ---
 
-## 🌐 Connect With Me
+## 🌐Connect With Me
 
 <p align="center">
   <a href="https://github.com/srivastavanandani190-lang">
@@ -192,7 +192,7 @@
 
 ---
 
-## 💫 Fun Fact
+## 💫Fun Fact
 
 > *“Coding isn’t just logic — it’s creativity shaping the future.”* 🎨💻
 
