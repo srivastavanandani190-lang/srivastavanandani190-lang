@@ -77,7 +77,7 @@
 
 <!-- ================================================= -->
 <!-- 🌈 ULTRA ANIMATED ROADMAP HEADER -->
-## 🛣️**Learning Roadmap & Tech Timeline** 🚀  
+## 🛣️**Learning Roadmap & Tech Timeline**🚀  
 <p align="center">
 ✨ <i>Transforming curiosity into capability — one milestone at a time.</i> ✨
 </p>
