@@ -41,35 +41,7 @@
 
 ---
 
-## 📊GitHub Analytics
 
-<p align="center">
-  <img src="https://stats.dooboo.io/api/github-stats?login=srivastavanandani190-lang" height="180"/>
-</p>
-
----
-
-## 🌌Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavanandani190-lang&theme=react-dark&hide_border=true&area=true" width="95%"/>
-</p>
-
----
-## 🔥Github Streak
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=dracula&hide_border=true"
-    height="190"
-  />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190-lang&layout=compact&bg_color=0B1220&title_color=38BDF8&text_color=E5E7EB&icon_color=22D3EE&hide_border=true&langs_count=6" />
-</p>
-
-
-
----
 
 <!-- ================================ -->
 <!-- 🛣️ LEARNING ROADMAP / TIMELINE -->
@@ -168,6 +140,35 @@
 - 📄 Resume & portfolio building  
 - 🌍 Open-source & GitHub contributions  
  
+---
+## 📊GitHub Analytics
+
+<p align="center">
+  <img src="https://stats.dooboo.io/api/github-stats?login=srivastavanandani190-lang" height="180"/>
+</p>
+
+---
+
+## 🌌Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavanandani190-lang&theme=react-dark&hide_border=true&area=true" width="95%"/>
+</p>
+
+---
+## 🔥Github Streak
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=dracula&hide_border=true"
+    height="190"
+  />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190-lang&layout=compact&bg_color=0B1220&title_color=38BDF8&text_color=E5E7EB&icon_color=22D3EE&hide_border=true&langs_count=6" />
+</p>
+
+
+
 ---
 
 ## 🌐Connect With Me
