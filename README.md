@@ -159,10 +159,11 @@
 ## 🔥Github Streak
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=default&hide_border=true&background=0d1117&fire=ff4d4d&currStreakNum=00ff9c&sideNums=ffffff"
+    src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=default&hide_border=true&background=0b0c10&fire=39ff14&currStreakNum=00ffff&sideNums=ff00ff&dates=ffff00"
     height="190"
   />
 </p>
+
 
 
 <p align="center">
