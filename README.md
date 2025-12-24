@@ -159,10 +159,11 @@
 ## 🔥Github Streak
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=dracula&hide_border=true"
+    src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=highcontrast&hide_border=true"
     height="190"
   />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190-lang&layout=compact&bg_color=0B1220&title_color=38BDF8&text_color=E5E7EB&icon_color=22D3EE&hide_border=true&langs_count=6" />
 </p>
