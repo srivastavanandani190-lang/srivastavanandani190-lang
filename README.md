@@ -10,10 +10,10 @@
 
 ## 👩‍💻About Me
 
-🎓 **Computer Science Engineering Student** at **AKTU University**
-💡 Passionate about **Full Stack Development, DSA (C++), Cybersecurity & Networking**
-🌱 Currently learning **MERN Stack, System-Level Concepts & Security Tools**
-🚀 Love building **real-world products**, contributing to **open source**, and solving problems
+🎓 **Computer Science Engineering Student** at **AKTU University**.<br>
+💡 Passionate about **Full Stack Development, DSA (C++), Cybersecurity & Networking**.<br>
+🌱 Currently learning **MERN Stack, System-Level Concepts & Security Tools**.<br>
+🚀 Love building **real-world products**, contributing to **open source**, and solving problems.<br>
 ✨ **Motto:** *“Curiosity fuels progress.”*
 
 ---
