@@ -1,7 +1,7 @@
 <!-- ================================================= -->
 <!-- ✨ ANIMATED INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=36&pause=1200&color=00FF9C&center=true&vCenter=true&width=1000&height=90&lines=Hey+There+👋,+I'm+Nandani+Srivastava;CSE+Undergraduate+%40+ABES+Engineering+College;Full+Stack+Developer+%7C+DSA+%7C+Cybersecurity;Turning+Ideas+Into+Impactful+Code+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=36&pause=1200&color=00FF9C&center=true&vCenter=true&width=1000&height=90&lines=Hey+There+👋,+I'm+Nandani+Srivastava;CSE+Undergraduate+%40+AKTU+University;Full+Stack+Developer+%7C+DSA+%7C+Cybersecurity;Turning+Ideas+Into+Impactful+Code+🚀" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
@@ -10,7 +10,7 @@
 
 ## 👩‍💻About Me
 
-🎓 **Computer Science Engineering Student** at **ABES Engineering College, Ghaziabad**  
+🎓 **Computer Science Engineering Student** at **AKTU University**  
 💡 Passionate about **Full Stack Development, DSA (C++), Cybersecurity & Networking**  
 🌱 Currently learning **MERN Stack, System-Level Concepts & Security Tools**  
 🚀 Love building **real-world products**, contributing to **open source**, and solving problems  
