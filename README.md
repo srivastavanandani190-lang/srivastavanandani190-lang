@@ -7,7 +7,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## 🪻About Me
 
 🎓 **Computer Science Engineering Student** at **AKTU University**  
 💡 Passionate about **Full Stack Development, DSA (C++), Cybersecurity & Networking**  
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,mongodb,tailwind,git,github,linux,mysql,bash,vscode&perline=8" />
@@ -25,7 +25,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀Featured Projects
 
 <div align="center">
 
@@ -40,7 +40,7 @@
 
 ---
 
-## 🛣️ Learning Roadmap & Tech Timeline 🚀
+## 🛣️Learning Roadmap & Tech Timeline 🚀
 <p align="center">
 ✨ <i>Transforming curiosity into capability — one milestone at a time.</i> ✨
 </p>
@@ -53,7 +53,7 @@
 
 ---
 
-## 🟢 Phase 1: Core Foundations 🧱
+## ⚫Phase 1: Core Foundations 🧱
 - 📜 **HTML • CSS • JavaScript**
 - 💻 **DSA & Problem Solving (C++)**
 - 🛠️ **Git & GitHub**
@@ -61,7 +61,7 @@
 
 ---
 
-## 🔵 Phase 2: Full Stack Development 🌐
+## 🟣Phase 2: Full Stack Development 🌐
 - ⚛️ **React.js**
 - 🟢 **Node.js • Express.js**
 - 🗄️ **Databases (MongoDB / SQL basics)**
@@ -69,7 +69,7 @@
 
 ---
 
-## 🟣 Phase 3: Python, AI & ML 🤖
+## ⚫Phase 3: Python, AI & ML 🤖
 - 🐍 Python programming
 - 📊 Data analysis (NumPy, Pandas)
 - 🧠 Machine Learning fundamentals
@@ -77,28 +77,28 @@
 
 ---
 
-## 🔴 Phase 4: Cybersecurity & Networking 🔐
+## 🟣Phase 4: Cybersecurity & Networking 🔐
 - 🌐 Computer networks
 - 🛡️ Cybersecurity fundamentals
 - 🔍 Threats, attacks & defenses
 
 ---
 
-## 🟡 Phase 5: Emerging Technologies 🚀
+## ⚫Phase 5: Emerging Technologies 🚀
 - ☁️ Cloud & DevOps basics
 - ⚙️ System design fundamentals
 - 🌱 Exploring trending technologies
 
 ---
 
-## ⭐ Phase 6: Industry Readiness 💼
+## 🟣Phase 6: Industry Readiness 💼
 - 🚀 Major projects & case studies
 - 📄 Resume & portfolio building
 - 🌍 Open-source & GitHub contributions
 
 ---
 
-## 📊 GitHub Analytics
+## 📊GitHub Analytics
 
 <p align="center">
   <img src="https://stats.dooboo.io/api/github-stats?login=srivastavanandani190-lang" height="180"/>
@@ -106,7 +106,7 @@
 
 ---
 
-## 🌌 Contribution Activity
+## 🌌Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavanandani190-lang&bg_color=0D1117&color=8E7CC3&line=8E7CC3&point=C9B6E4&area=true&area_color=8E7CC3&hide_border=true" width="95%"/>
@@ -114,7 +114,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=tokyonight&hide_border=true&ring=8E7CC3&fire=8E7CC3&currStreakLabel=8E7CC3" height="190"/>
@@ -126,7 +126,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐Connect With Me
 
 <p align="center">
    <a href="https://enchanting-starburst-d1026d.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-8E7CC3?style=for-the-badge&logo=web&logoColor=white"/></a>
@@ -139,7 +139,7 @@
 
 ---
 
-## 💫 Fun Fact
+## 💜Fun Fact
 
 > *“Coding isn’t just logic — it’s creativity shaping the future.”* 🎨💻
 
