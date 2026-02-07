@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1200&color=8E7CC3&center=true&vCenter=true&width=1000&lines=Hey+There+👋+I'm+Nandani+Srivastava;CSE+Undergraduate+%40+AKTU+University;Full+Stack+Developer+%7C+DSA+%7C+Cybersecurity;Building+Clean+Code+for+Real-World+Impact+🚀" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E7CC3,100:C9B6E4&height=3"/>
+
 
 ---
 
@@ -49,7 +49,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=30&pause=1200&color=8E7CC3&center=true&vCenter=true&width=1100&lines=Learning+with+Consistency+🚀;Building+Skills+Step+by+Step+🧠;From+Foundations+to+Industry+Ready+💼" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8E7CC3&height=3"/>
+ 
 
 ---
 
@@ -129,11 +129,12 @@
 ## 🌐 Connect With Me
 
 <p align="center">
+   <a href="https://enchanting-starburst-d1026d.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-8E7CC3?style=for-the-badge&logo=web&logoColor=white"/></a>
   <a href="https://github.com/srivastavanandani190-lang"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
   <a href="https://www.linkedin.com/in/nandanisrivastava"><img src="https://img.shields.io/badge/LinkedIn-8E7CC3?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/Nandani_31/"><img src="https://img.shields.io/badge/LeetCode-8E7CC3?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Nandani_31/"><img src="https://img.shields.io/badge/LeetCode-181717?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/nandani_31"><img src="https://img.shields.io/badge/CodeChef-8E7CC3?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  <a href="https://enchanting-starburst-d1026d.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-8E7CC3?style=for-the-badge&logo=web&logoColor=white"/></a>
+ 
 </p>
 
 ---
@@ -145,3 +146,4 @@
 <p align="center">
   ⭐ If you like my work, consider giving a star — it really helps! ⭐
 </p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E7CC3,100:C9B6E4&height=3"/>
