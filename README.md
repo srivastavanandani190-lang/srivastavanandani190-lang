@@ -3,20 +3,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1200&color=8E7CC3&center=true&vCenter=true&width=1000&lines=Hey+There+👋+I'm+Nandani+Srivastava;CSE+Undergraduate+%40+AKTU+University;Full+Stack+Developer+%7C+DSA+%7C+Cybersecurity;Building+Clean+Code+for+Real-World+Impact+🚀" />
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E7CC3,100:C9B6E4&height=3"/>
+
 ---
- 
 
-## 👩‍💻About Me
+## 👩‍💻 About Me
 
-🎓 **Computer Science Engineering Student** at **AKTU University**.<br>
-💡 Passionate about **Full Stack Development, DSA (C++), Cybersecurity & Networking**.<br>
-🌱 Currently learning **MERN Stack, System-Level Concepts & Security Tools**.<br>
-🚀 Love building **real-world products**, contributing to **open source**, and solving problems.<br>
+🎓 **Computer Science Engineering Student** at **AKTU University**  
+💡 Passionate about **Full Stack Development, DSA (C++), Cybersecurity & Networking**  
+🌱 Currently learning **MERN Stack, System-Level Concepts & Security Tools**  
+🚀 Love building **real-world products**, contributing to **open source**, and solving problems  
 ✨ **Motto:** *“Curiosity fuels progress.”*
 
 ---
 
-## 🛠️Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,mongodb,tailwind,git,github,linux,mysql,bash,vscode&perline=8" />
@@ -24,7 +25,7 @@
 
 ---
 
-## 🚀Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -39,107 +40,65 @@
 
 ---
 
-
-
-<!-- ================================ -->
-<!-- 🛣️ LEARNING ROADMAP / TIMELINE -->
-<!-- ================================ -->
-
-<!-- ================================================= -->
-<!-- 🌈 ULTRA ANIMATED ROADMAP HEADER -->
-## 🛣️**Learning Roadmap & Tech Timeline**🚀  
+## 🛣️ Learning Roadmap & Tech Timeline 🚀
 <p align="center">
 ✨ <i>Transforming curiosity into capability — one milestone at a time.</i> ✨
 </p>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=30&pause=1200&color=00FF9C&center=true&vCenter=true&width=1100&height=90&lines=Learning+with+Consistency+🚀;Building+Skills+Step+by+Step+🧠;From+Foundations+to+Industry+Ready+💼" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=30&pause=1200&color=8E7CC3&center=true&vCenter=true&width=1100&lines=Learning+with+Consistency+🚀;Building+Skills+Step+by+Step+🧠;From+Foundations+to+Industry+Ready+💼" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8E7CC3&height=3"/>
 
+---
 
-
-
-
-## 🟢**Phase 1: Core Foundations**🧱  
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
-</p>
-
-- 📜 **HTML • CSS • JavaScript** 
-- 💻 **DSA & Problem Solving (C++)** 
-- 🛠️ **Git & GitHub** 
+## 🟢 Phase 1: Core Foundations 🧱
+- 📜 **HTML • CSS • JavaScript**
+- 💻 **DSA & Problem Solving (C++)**
+- 🛠️ **Git & GitHub**
 - 📚 Programming fundamentals & logic building
+
 ---
 
-## 🔵**Phase 2: Full Stack Development**🌐  
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-</p>
-
-- ⚛️ **React.js** 
-- 🟢 **Node.js • Express.js** 
-- 🗄️ **Databases (MongoDB / SQL basics)** 
+## 🔵 Phase 2: Full Stack Development 🌐
+- ⚛️ **React.js**
+- 🟢 **Node.js • Express.js**
+- 🗄️ **Databases (MongoDB / SQL basics)**
 - 🧩 Building real-world full stack applications
+
 ---
 
-## 🟣**Phase 3: Python, AI & ML**🤖  
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-</p>
+## 🟣 Phase 3: Python, AI & ML 🤖
+- 🐍 Python programming
+- 📊 Data analysis (NumPy, Pandas)
+- 🧠 Machine Learning fundamentals
+- 📈 Smart & data-driven systems
 
-- 🐍 Python programming  
-- 📊 Data analysis (NumPy, Pandas)  
-- 🧠 Machine Learning fundamentals  
-- 📈 Smart & data-driven systems  
 ---
 
-## 🔴**Phase 4: Cybersecurity & Networking**🔐  
-<p align="center">
-  <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-red?style=for-the-badge&logo=securityscorecard"/>
-</p>
+## 🔴 Phase 4: Cybersecurity & Networking 🔐
+- 🌐 Computer networks
+- 🛡️ Cybersecurity fundamentals
+- 🔍 Threats, attacks & defenses
 
-- 🌐 Computer networks  
-- 🛡️ Cybersecurity fundamentals  
-- 🔍 Threats, attacks & defenses  
 ---
 
-## 🟡**Phase 5: Emerging Technologies**🚀  
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud"/>
-  <img src="https://img.shields.io/badge/DevOps-0F172A?style=for-the-badge&logo=devops"/>
-</p>
+## 🟡 Phase 5: Emerging Technologies 🚀
+- ☁️ Cloud & DevOps basics
+- ⚙️ System design fundamentals
+- 🌱 Exploring trending technologies
 
-- ☁️ Cloud & DevOps basics  
-- ⚙️ System design fundamentals  
-- 🌱 Exploring trending technologies  
 ---
 
-## ⭐**Phase 6: Industry Readiness**💼  
-<p align="center">
-  <img src="https://img.shields.io/badge/Projects-FFD700?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github"/>
-</p>
+## ⭐ Phase 6: Industry Readiness 💼
+- 🚀 Major projects & case studies
+- 📄 Resume & portfolio building
+- 🌍 Open-source & GitHub contributions
 
-- 🚀 Major projects & case studies  
-- 📄 Resume & portfolio building  
-- 🌍 Open-source & GitHub contributions  
- 
 ---
-## 📊GitHub Analytics
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://stats.dooboo.io/api/github-stats?login=srivastavanandani190-lang" height="180"/>
@@ -147,57 +106,42 @@
 
 ---
 
-## 🌌Contribution Activity
+## 🌌 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavanandani190-lang&bg_color=0D1117&color=8E7CC3&line=8E7CC3&point=C9B6E4&area=true&area_color=8E7CC3&hide_border=true" width="95%"/>
 </p>
 
 ---
-## 🔥Github Streak
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=dracula&hide_border=true"
-    height="190"
-  />
-</p>  
+
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190-lang&layout=compact&bg_color=0B1220&title_color=38BDF8&text_color=E5E7EB&icon_color=22D3EE&hide_border=true&langs_count=6" />
+  <img src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=tokyonight&hide_border=true&ring=8E7CC3&fire=8E7CC3&currStreakLabel=8E7CC3" height="190"/>
 </p>
 
-
-
----
-
-## 🌐Connect With Me
-
 <p align="center">
-  <a href="https://github.com/srivastavanandani190-lang">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nandanisrivastava">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://leetcode.com/u/Nandani_31/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://www.codechef.com/users/nandani_31">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
-  <a href="https://enchanting-starburst-d1026d.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=web"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190-lang&layout=compact&bg_color=0B1220&title_color=8E7CC3&text_color=E5E7EB&icon_color=8E7CC3&hide_border=true&langs_count=6" />
 </p>
 
 ---
 
-## 💫Fun Fact
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/srivastavanandani190-lang"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/nandanisrivastava"><img src="https://img.shields.io/badge/LinkedIn-8E7CC3?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Nandani_31/"><img src="https://img.shields.io/badge/LeetCode-8E7CC3?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/nandani_31"><img src="https://img.shields.io/badge/CodeChef-8E7CC3?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://enchanting-starburst-d1026d.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-8E7CC3?style=for-the-badge&logo=web&logoColor=white"/></a>
+</p>
+
+---
+
+## 💫 Fun Fact
 
 > *“Coding isn’t just logic — it’s creativity shaping the future.”* 🎨💻
 
 <p align="center">
   ⭐ If you like my work, consider giving a star — it really helps! ⭐
 </p>
-
- ---
