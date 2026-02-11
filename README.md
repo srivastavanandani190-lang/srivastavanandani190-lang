@@ -108,12 +108,8 @@
 ## 🌌Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavanandani190&bg_color=ffffff&color=7b2cbf&line=9d4edd&point=c77dff&area=true&area_color=e0aaff&hide_border=true"
-    width="95%"
-  />
-</p>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavanandani190-lang&bg_color=0D1117&color=8E7CC3&line=8E7CC3&point=C9B6E4&area=true&area_color=8E7CC3&hide_border=true" width="95%"/>
+</p> 
 
 ---
 
