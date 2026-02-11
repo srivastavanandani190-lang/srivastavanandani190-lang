@@ -120,7 +120,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190&layout=compact&bg_color=0B1220&title_color=8E7CC3&text_color=E5E7EB&icon_color=8E7CC3&hide_border=true&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
