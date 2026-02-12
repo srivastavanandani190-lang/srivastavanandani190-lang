@@ -97,7 +97,7 @@
 
 ---
 
-## 📊GitHub Analytics
+## 🪀GitHub Analytics
 
 <p align="center">
   <img src="https://stats.dooboo.io/api/github-stats?login=srivastavanandani190-lang" height="180"/>
@@ -113,7 +113,7 @@
 
 ---
 
-## 🔥GitHub Streak
+## ♟️GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=tokyonight&hide_border=true&ring=8E7CC3&fire=8E7CC3&currStreakLabel=8E7CC3" height="190"/>
@@ -125,7 +125,7 @@
 
 ---
 
-## 🌐Connect With Me
+## 👾Connect With Me
 
 <p align="center">
    <a href="https://enchanting-starburst-d1026d.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-8E7CC3?style=for-the-badge&logo=web&logoColor=white"/></a>
@@ -138,7 +138,7 @@
 
 ---
 
-## 💜Fun Fact
+## 🎮Fun Fact
 
 > *“Coding isn’t just logic — it’s creativity shaping the future.”* 🎨💻
 
