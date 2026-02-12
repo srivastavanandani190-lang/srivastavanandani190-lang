@@ -119,9 +119,9 @@
   <img src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=tokyonight&hide_border=true&ring=8E7CC3&fire=8E7CC3&currStreakLabel=8E7CC3" height="190"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
