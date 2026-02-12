@@ -24,7 +24,7 @@
 
 ---
 
-## 🚀Featured Projects
+## 🎬Featured Projects
 
 <div align="center">
 
@@ -39,7 +39,7 @@
 
 ---
 
-## 🛣️Learning Roadmap!
+## 🗄️Learning Roadmap!
 <!-- <p align="center">
 ✨ <i>Transforming curiosity into capability — one milestone at a time.</i> ✨
 </p> -->
