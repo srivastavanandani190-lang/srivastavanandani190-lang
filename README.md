@@ -122,11 +122,9 @@
 </p>
 
 <!-- Optional Languages Card (same theme) -->
-<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190&layout=compact&bg_color=FFFFFF&title_color=2D033B&text_color=000000&hide_border=true" />
 </p>
--->
 ---
 
 ## 👾Connect With Me
