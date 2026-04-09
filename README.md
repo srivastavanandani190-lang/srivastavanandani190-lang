@@ -1,11 +1,10 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= DARK MODE INTRO ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1200&color=9D4EDD&center=true&vCenter=true&width=1000&lines=Hey+There+👋+I'm+Nandani+Srivastava;CSE+Undergraduate+%40+AKTU+University;Full+Stack+Developer+%7C+DSA+%7C+Cybersecurity;Building+Clean+Code+for+Real-World+Impact+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1200&color=8E7CC3&center=true&vCenter=true&width=1000&lines=Hey+There+👋+I'm+Nandani+Srivastava;CSE+Undergraduate+%40+AKTU+University;Full+Stack+Developer+%7C+DSA+%7C+Cybersecurity;Building+Clean+Code+for+Real-World+Impact+🚀" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:7B2CBF&height=120&section=header"/>
-
 ---
+
 
 ## 🪻About Me
 
@@ -38,14 +37,18 @@
 | **ML / AI Python Scripts** | Learning-focused ML utilities | *Coming Soon* 🚧 |
 
 </div>
-
 ---
 
 ## 🗄️Learning Roadmap!
+<!-- <p align="center">
+✨ <i>Transforming curiosity into capability — one milestone at a time.</i> ✨
+</p> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=30&pause=1200&color=9D4EDD&center=true&vCenter=true&width=1100&lines=Learning+with+Consistency+🚀;Building+Skills+Step+by+Step+🧠;From+Foundations+to+Industry+Ready+💼" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=30&pause=1200&color=8E7CC3&center=true&vCenter=true&width=1100&lines=Learning+with+Consistency+🚀;Building+Skills+Step+by+Step+🧠;From+Foundations+to+Industry+Ready+💼" />
 </p>
+
+ 
 
 ---
 
@@ -97,7 +100,7 @@
 ## 🪀GitHub Analytics
 
 <p align="center">
-  <img src="https://stats.dooboo.io/api/github-stats?login=srivastavanandani190-lang&theme=tokyonight" height="180"/>
+  <img src="https://stats.dooboo.io/api/github-stats?login=srivastavanandani190-lang" height="180"/>
 </p>
 
 ---
@@ -105,7 +108,7 @@
 ## ♣️Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavanandani190-lang&bg_color=0D1117&color=9D4EDD&line=7B2CBF&point=CDB4DB&area=true&area_color=7B2CBF&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavanandani190-lang&bg_color=0D1117&color=8E7CC3&line=8E7CC3&point=C9B6E4&area=true&area_color=8E7CC3&hide_border=true" width="95%"/>
 </p> 
 
 ---
@@ -113,29 +116,24 @@
 ## ♟️GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=tokyonight&hide_border=true&ring=9D4EDD&fire=7B2CBF&currStreakLabel=9D4EDD" height="190"/>
+  <img src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=tokyonight&hide_border=true&ring=8E7CC3&fire=8E7CC3&currStreakLabel=8E7CC3" height="190"/>
 </p>
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190&layout=compact&theme=tokyonight&hide_border=true" />
+</p> -->
 
 ---
 
 ## 👾Connect With Me
 
 <p align="center">
-   <a href="https://enchanting-starburst-d1026d.netlify.app/">
-     <img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=web&logoColor=white"/>
-   </a>
-  <a href="https://github.com/srivastavanandani190-lang">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nandanisrivastava">
-    <img src="https://img.shields.io/badge/LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/Nandani_31/">
-    <img src="https://img.shields.io/badge/LeetCode-7B2CBF?style=for-the-badge&logo=leetcode"/>
-  </a>
-  <a href="https://www.codechef.com/users/nandani_31">
-    <img src="https://img.shields.io/badge/CodeChef-9D4EDD?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
+   <a href="https://enchanting-starburst-d1026d.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-8E7CC3?style=for-the-badge&logo=web&logoColor=white"/></a>
+  <a href="https://github.com/srivastavanandani190-lang"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/nandanisrivastava"><img src="https://img.shields.io/badge/LinkedIn-8E7CC3?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Nandani_31/"><img src="https://img.shields.io/badge/LeetCode-181717?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/nandani_31"><img src="https://img.shields.io/badge/CodeChef-8E7CC3?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+ 
 </p>
 
 ---
@@ -147,5 +145,4 @@
 <p align="center">
   ⭐ If you like my work, consider giving a star — it really helps! ⭐
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,100:0D1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E7CC3,100:C9B6E4&height=3"/> 
