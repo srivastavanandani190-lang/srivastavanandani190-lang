@@ -139,9 +139,8 @@
 ## 🎮 Fun Fact
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=3A0CA3&center=true&vCenter=true&lines=Code+is+poetry;Build+what+matters;Think+like+a+developer;Create+your+own+future" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 </p>
-<p align="center">
   ⭐ If you like my work, consider giving a star — it really helps! ⭐
 </p>
  
