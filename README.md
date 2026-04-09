@@ -118,13 +118,15 @@
 ## ♟️GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=tokyonight&hide_border=true&ring=8E7CC3&fire=8E7CC3&currStreakLabel=8E7CC3" height="190"/>
+  <img src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=default&hide_border=true&background=FFFFFF&stroke=000000&ring=3A0CA3&fire=3A0CA3&currStreakLabel=2D033B&sideLabels=000000&dates=555555" height="190"/>
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190&layout=compact&theme=tokyonight&hide_border=true" />
-</p> -->
-
+<!-- Optional Languages Card (same theme) -->
+<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190&layout=compact&bg_color=FFFFFF&title_color=2D033B&text_color=000000&hide_border=true" />
+</p>
+-->
 ---
 
 ## 👾Connect With Me
