@@ -8,13 +8,13 @@
 
 ## 🪻 About Me
 
-<p align="center">
+<p>
   <b>🎓 Computer Science Engineering Student</b>  
   <br/>
   <b>📍 AKTU University</b>
 </p>
 
-<p align="center">
+<p>
   💡 <b>Passionate about:</b> Full Stack Development • DSA (C++) • Cybersecurity • Networking  
   <br/>
   🌱 <b>Currently exploring:</b> MERN Stack • System-Level Concepts • Security Tools  
@@ -22,7 +22,7 @@
   🚀 <b>I enjoy:</b> Building real-world products • Open Source • Problem Solving  
 </p>
 
-<p align="center">
+<p>
   ✨ <i>"Curiosity fuels progress."</i>
 </p>
 
