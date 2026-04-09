@@ -139,15 +139,7 @@
 ## 🎮 Fun Fact
 
 <p align="center">
-  <i>"Code is like art — invisible until it changes the world."</i> 💡
-</p>
-
-<p align="center">
-  <i>"First, solve the problem. Then, write the code."</i> ⚡
-</p>
-
-<p align="center">
-  <i>"Creativity + Logic = Developer Magic."</i> 🎨💻
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
 </p>
 
 <p align="center">
@@ -155,3 +147,5 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D033B,100:000000&height=3"/>
+
+ ---
