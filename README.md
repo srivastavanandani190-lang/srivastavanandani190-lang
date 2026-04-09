@@ -139,13 +139,12 @@
 ## 🎮 Fun Fact
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 </p>
 
 <p align="center">
   ⭐ If you like my work, consider giving a star — it really helps! ⭐
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D033B,100:000000&height=3"/>
+ 
 
  ---
