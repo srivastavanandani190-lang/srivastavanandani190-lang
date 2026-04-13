@@ -6,7 +6,7 @@
 ---
 
 
-## 🪻 About Me
+## 🪻About Me
 
 <p>
   <b>🎓 Computer Science Engineering Student</b>  
