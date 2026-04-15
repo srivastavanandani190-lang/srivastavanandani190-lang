@@ -115,9 +115,8 @@
 ## ♣️Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavanandani190-lang&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=222222&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavanandani190-lang&bg_color=000000&color=A855F7&line=A855F7&point=FFFFFF&area=true&area_color=3B0764&hide_border=true" width="95%"/>
 </p>
-
 ---
 
 ## ♟️GitHub Streak
