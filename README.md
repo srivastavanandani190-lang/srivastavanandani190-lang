@@ -116,17 +116,16 @@
 </p>
 
 ---
+
 ## 🪀 GitHub Analytics
 
 <p align="center">
   <img src="https://stats.dooboo.io/api/github-stats?login=srivastavanandani190-lang&theme=dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=srivastavanandani190-lang&show_icons=true&bg_color=000000&title_color=8E7CC3&text_color=FFFFFF&icon_color=8E7CC3&border_color=8E7CC3" height="180"/>
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srivastavanandani190-lang&theme=github_dark" width="95%"/>
 </p>
-
 ## ♟️GitHub Streak
 
 <p align="center">
