@@ -5,7 +5,6 @@
 
 ---
 
-
 ## 🪻About Me
 
 <p>
@@ -31,7 +30,7 @@
 
 ---
 
-## 🎬 Featured Projects  
+## 🎬Featured Projects  
 
 <div align="center">
 
@@ -117,7 +116,7 @@
 
 ---
 
-## 🪀 GitHub Analytics
+## 🪀GitHub Analytics
 
 <p align="center">
   <img src="https://stats.dooboo.io/api/github-stats?login=srivastavanandani190-lang&theme=dark" height="180"/>
@@ -125,7 +124,7 @@
 
 ---
 
-## ♟️ GitHub Streak
+## ♟️GitHub Streak
 
 <p align="center">
   <img 
@@ -148,12 +147,13 @@
 
 
 
-## 🎮 Fun Fact
+## 🎮Fun Fact
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 </p>
-  ⭐ If you like my work, consider giving a star — it really helps! ⭐
+<p align="center">
+  ⭐If you like my work, consider giving a star — it really helps!⭐
 </p>
  
 
