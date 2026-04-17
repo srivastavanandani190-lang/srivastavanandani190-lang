@@ -123,14 +123,16 @@
   <img src="https://stats.dooboo.io/api/github-stats?login=srivastavanandani190-lang&theme=dark" height="180"/>
 </p>
 
- 
-
 ---
 
-## ♟️GitHub Streak
+## ♟️ GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=default&hide_border=true&background=FFFFFF&stroke=000000&ring=3A0CA3&fire=3A0CA3&currStreakLabel=2D033B&sideLabels=000000&dates=555555" height="190"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=default&hide_border=true&background=000000&stroke=8E7CC3&ring=8E7CC3&fire=8E7CC3&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=CCCCCC" 
+    height="190"
+    style="border:2px solid #000000; border-radius:10px; padding:8px;"
+  />
 </p>
 
 ---
