@@ -123,9 +123,10 @@
   <img src="https://stats.dooboo.io/api/github-stats?login=srivastavanandani190-lang&theme=dark" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srivastavanandani190-lang&theme=github_dark" width="95%"/>
-</p>
+ 
+
+---
+
 ## ♟️GitHub Streak
 
 <p align="center">
