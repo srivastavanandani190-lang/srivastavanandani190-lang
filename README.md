@@ -131,9 +131,10 @@
   <img 
     src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=default&hide_border=true&background=FFFFFF&stroke=000000&ring=3A0CA3&fire=3A0CA3&currStreakLabel=2D033B&sideLabels=000000&dates=555555" 
     height="190"
-    style="border:2px solid #000000; border-radius:10px; padding:8px; background-color:#FFFFFF;"
+    style="border:2px solid #000000; padding:8px; background-color:#FFFFFF;"
   />
 </p>
+ 
 
 ---
 
