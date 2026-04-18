@@ -148,7 +148,7 @@
 
 
  <p align="center">
-  ⭐If you like my work, consider giving a star — it really helps!⭐
+  🔥Just one big Win to cancel all the Losses!🔥
 </p>
  
 
