@@ -147,12 +147,7 @@
 
 
 
-## 🎮Fun Fact
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
-</p>
-<p align="center">
+ 
   ⭐If you like my work, consider giving a star — it really helps!⭐
 </p>
  
