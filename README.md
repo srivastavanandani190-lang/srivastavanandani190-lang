@@ -58,7 +58,7 @@
 
 ---
 
-## ⚫Phase 1:Core Foundations🧱
+## ⚫Phase 1: Core Foundations🧱
 - 📜 **HTML • CSS • JavaScript**
 - 💻 **DSA & Problem Solving (C++)**
 - 🛠️ **Git & GitHub**
@@ -66,7 +66,7 @@
 
 ---
 
-## 🟣Phase 2:Full Stack Development🌐
+## 🟣Phase 2: Full Stack Development🌐
 - ⚛️ **React.js**
 - 🟢 **Node.js • Express.js**
 - 🗄️ **Databases (MongoDB / SQL basics)**
@@ -74,7 +74,7 @@
 
 ---
 
-## ⚫Phase 3:Python, AI & ML🤖
+## ⚫Phase 3: Python, AI & ML🤖
 - 🐍 Python programming
 - 📊 Data analysis (NumPy, Pandas)
 - 🧠 Machine Learning fundamentals
@@ -82,21 +82,21 @@
 
 ---
 
-## 🟣Phase 4:Cybersecurity & Networking🔐
+## 🟣Phase 4: Cybersecurity & Networking🔐
 - 🌐 Computer networks
 - 🛡️ Cybersecurity fundamentals
 - 🔍 Threats, attacks & defenses
 
 ---
 
-## ⚫Phase 5:Emerging Technologies🚀
+## ⚫Phase 5: Emerging Technologies🚀
 - ☁️ Cloud & DevOps basics
 - ⚙️ System design fundamentals
 - 🌱 Exploring trending technologies
 
 ---
 
-## 🟣Phase 6:Industry Readiness💼
+## 🟣Phase 6: Industry Readiness💼
 - 🚀 Major projects & case studies
 - 📄 Resume & portfolio building
 - 🌍 Open-source & GitHub contributions
