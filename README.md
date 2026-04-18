@@ -147,7 +147,7 @@
 
 
 
- 
+ <p align="center">
   ⭐If you like my work, consider giving a star — it really helps!⭐
 </p>
  
