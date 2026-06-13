@@ -112,7 +112,7 @@
   <a href="https://leetcode.com/u/Nandani_31/"><img src="https://img.shields.io/badge/LeetCode-181717?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/nandani_31"><img src="https://img.shields.io/badge/CodeChef-8E7CC3?style=for-the-badge&logo=codechef&logoColor=white"/></a>
   <a href="https://www.geeksforgeeks.org/profile/srivastavanandani190"><img src="https://img.shields.io/badge/GeeksforGeeks-181717?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>    
-<a href="https://unstop.com/u/nandakum6174"><img src="https://img.shields.io/badge/Unstop-8E7CC3?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://unstop.com/u/nandakum6174"><img src="https://img.shields.io/badge/Unstop%20Profile-8E7CC3?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
 ---
