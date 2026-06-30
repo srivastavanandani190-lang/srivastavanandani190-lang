@@ -40,7 +40,7 @@
 | **Frontend Projects Hub** | Responsive UI, animations & layouts | [Live](https://amazonprojectns.netlify.app/) |
 | **Moviify App** | Movie search & recommendation using API | [Live](https://studio-gamma-lac.vercel.app/) |
 | **NutriFuel Dashboard** | Health & nutrition tracking web app with analytics | [Live](https://app-9t1903wr0agx.appmedo.com/dashboard) |
-| **ML / AI Python Scripts** | Learning-focused ML utilities | *Coming Soon* 🚧 |
+| **Expirova** | Never miss an expiry date again. Stay organized, stay informed. |[Live](https://expirova.vercel.app/dashboard) |
 
 </div>
 
