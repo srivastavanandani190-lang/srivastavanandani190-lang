@@ -113,7 +113,7 @@
   <a href="https://www.codechef.com/users/nandani_31"><img src="https://img.shields.io/badge/CodeChef-8E7CC3?style=for-the-badge&logo=codechef&logoColor=white"/></a>
   <a href="https://www.geeksforgeeks.org/profile/srivastavanandani190"><img src="https://img.shields.io/badge/GeeksforGeeks-181717?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>    
 <a href="https://www.naukri.com/code360/profile/nandanisri">
-  <img src="https://img.shields.io/badge/Code360-FF6B35?style=for-the-badge&logo=codingninjas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code360-8E7CC3?style=for-the-badge&logo=codingninjas&logoColor=white"/>
 </a>
   
 </p>
