@@ -106,20 +106,14 @@
 ## 👾Connect With Me
 
 <p align="center">
-   <!-- <a href="https://enchanting-starburst-d1026d.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-8E7CC3?style=for-the-badge&logo=web&logoColor=white"/></a> -->
- 
+  <!-- <a href="https://enchanting-starburst-d1026d.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-8E7CC3?style=for-the-badge&logo=web&logoColor=white"/></a> -->
   <a href="https://github.com/srivastavanandani190-lang"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
   <a href="https://www.linkedin.com/in/nandanisrivastava"><img src="https://img.shields.io/badge/LinkedIn-8E7CC3?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/u/Nandani_31/"><img src="https://img.shields.io/badge/LeetCode-181717?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/nandani_31"><img src="https://img.shields.io/badge/CodeChef-8E7CC3?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  <a href="https://www.geeksforgeeks.org/profile/srivastavanandani190"><img src="https://img.shields.io/badge/GeeksforGeeks-181717?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>    
-<a href="https://www.naukri.com/code360/profile/nandanisri">
-  <img src="https://img.shields.io/badge/Code360-8E7CC3?style=for-the-badge&logo=codingninjas&logoColor=white"/>
-</a>
-   <a href="https://www.interviewbit.com/profile/nandani-srivastava/">
-  <img src="https://img.shields.io/badge/InterviewBit-181717?style=for-the-badge&logo=interviewbit&logoColor=white"/>
-</a>
-
+  <a href="https://www.geeksforgeeks.org/profile/srivastavanandani190"><img src="https://img.shields.io/badge/GeeksforGeeks-181717?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://www.naukri.com/code360/profile/nandanisri"><img src="https://img.shields.io/badge/Code360-8E7CC3?style=for-the-badge&logo=codingninjas&logoColor=white"/></a>
+  <a href="https://www.interviewbit.com/profile/nandani-srivastava/"><img src="https://img.shields.io/badge/InterviewBit-181717?style=for-the-badge&logo=interviewbit&logoColor=white"/></a>
 </p>
 
 ---
