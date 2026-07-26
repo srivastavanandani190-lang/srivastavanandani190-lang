@@ -148,11 +148,13 @@
 
 
 
- <p align="center">
-   
+ 
+   <div align="center">
+     
   ### 🔥Just one big Win to cancel all the Losses!🔥
   
-</p>
+  </div>
+ 
  
 
  ---
