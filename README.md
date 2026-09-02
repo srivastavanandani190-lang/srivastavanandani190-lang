@@ -142,14 +142,9 @@
 ## ♣️ Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=srivastavanandani190-lang&theme=dark&hide_border=true"
-    width="95%"
-    alt="GitHub Contribution Streak"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavanandani190-lang&bg_color=000000&color=EAEAEA&line=8E7CC3&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
 </p>
 
----
 
 ---
 
