@@ -18,7 +18,7 @@
 
 <p>
   🎓 <b>Aspiring Software Engineer | CSE Undergraduate at AKTU University</b>
-  <br/><br/>
+  <br/>
   💻 Passionate about <b>Software Development, Cybersecurity & Problem Solving.</b>
   <br/>
   🛠️ Skilled in <b>C++, Java, Python, DSA, Frontend Development & Computer Networking.</b>
@@ -28,8 +28,7 @@
   🚀 Interested in building <b>secure, scalable and impactful real-world solutions.</b>
   <br/>
   🤝 Enthusiastic about <b>Open Source, Continuous Learning & Collaborative Development.</b>
-  <br/><br/>
-  ✨ <i>"Curiosity fuels progress."</i>
+ 
 </p>
 
 ---
