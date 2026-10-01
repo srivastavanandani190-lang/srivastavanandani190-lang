@@ -1,30 +1,30 @@
-<!-- ================= MIDNIGHT AURORA INTRO ================= -->
+ <!-- ================= ROSE GOLD NOIR | INTRO ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1200&color=00D9C0&center=true&vCenter=true&width=1000&lines=Hey+There+👋+I'm+Nandani+Srivastava;CSE+Undergraduate+%40+AKTU+University;Full+Stack+Developer+%7C+DSA+%7C+Cybersecurity;Building+Clean+Code+for+Real-World+Impact+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=34&pause=1200&color=E6A6A1&center=true&vCenter=true&width=1000&lines=Hey+There+👋+I'm+Nandani+Srivastava;CSE+Undergraduate+%40+AKTU+University;Full+Stack+Developer+%7C+DSA+%7C+Cybersecurity;Building+Clean+Code+for+Real-World+Impact+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BUILDING-REAL--WORLD%20PROJECTS-00D9C0?style=for-the-badge&labelColor=071B26"/>
-  <img src="https://img.shields.io/badge/LEARNING-EVERYDAY-38BDF8?style=for-the-badge&labelColor=071B26"/>
-  <img src="https://img.shields.io/badge/MINDSET-GROWTH-A3E635?style=for-the-badge&labelColor=071B26"/>
+  <img src="https://img.shields.io/badge/CREATIVITY-DRIVEN-B76E79?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CODE-WITH%20PURPOSE-D8C3A5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ALWAYS-LEARNING-171116?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🪻 About Me
+## 🥀 About Me
 
 <p>
   <b>🎓 Computer Science Engineering Student</b>
   <br/>
   <b>📍 AKTU University</b>
-  <br/><br/>
+  <br/>
   💡 <b>Passionate about:</b> Full Stack Development • DSA (C++) • Cybersecurity • Networking
   <br/>
   🌱 <b>Currently exploring:</b> MERN Stack • System-Level Concepts • Security Tools
   <br/>
-  🚀 <b>I enjoy:</b> Building Real-World Products • Open Source • Problem Solving
-  <br/><br/>
+  🚀 <b>I enjoy:</b> Building real-world products • Open Source • Problem Solving
+  <br/>
   ✨ <i>"Curiosity fuels progress."</i>
 </p>
 
@@ -33,7 +33,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,mongodb,tailwind,git,github,linux,mysql,bash,vscode&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,mongodb,tailwind,git,github,linux,mysql,bash,vscode&perline=8" />
 </p>
 
 ---
@@ -42,13 +42,13 @@
 
 <div align="center">
 
-| ⭐ Project                 | 🧩 Description                                                  |                                                                        🔗 Link                                                                        |
-| :------------------------ | :-------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **LeetCode DSA Tracker**  | Optimized C++ solutions with consistency                        |    [![Profile](https://img.shields.io/badge/Profile-00D9C0?style=flat-square\&logo=leetcode\&logoColor=071B26)](https://leetcode.com/u/Nandani_31/)   |
-| **Frontend Projects Hub** | Responsive UI, animations & layouts                             |       [![Live](https://img.shields.io/badge/Live-38BDF8?style=flat-square\&logo=vercel\&logoColor=071B26)](https://amazonprojectns.netlify.app/)      |
-| **Moviify App**           | Movie search & recommendation using API                         |       [![Live](https://img.shields.io/badge/Live-00D9C0?style=flat-square\&logo=vercel\&logoColor=071B26)](https://studio-gamma-lac.vercel.app/)      |
-| **NutriFuel Dashboard**   | Health & nutrition tracking web app with analytics              | [![Live](https://img.shields.io/badge/Live-A3E635?style=flat-square\&logo=netlify\&logoColor=071B26)](https://app-9t1903wr0agx.appmedo.com/dashboard) |
-| **Expirova**              | Never miss an expiry date again. Stay organized, stay informed. |           [![Live](https://img.shields.io/badge/Live-38BDF8?style=flat-square\&logo=vercel\&logoColor=071B26)](https://expirova.vercel.app)           |
+| 🥀 Project                | ✨ Description                                                   | 🔗 Link                                                |
+| :------------------------ | :-------------------------------------------------------------- | :----------------------------------------------------- |
+| **LeetCode DSA Tracker**  | Optimized C++ solutions with consistency                        | [Profile](https://leetcode.com/u/Nandani_31/)          |
+| **Frontend Projects Hub** | Responsive UI, animations & layouts                             | [Live](https://amazonprojectns.netlify.app/)           |
+| **Moviify App**           | Movie search & recommendation using API                         | [Live](https://studio-gamma-lac.vercel.app/)           |
+| **NutriFuel Dashboard**   | Health & nutrition tracking web app with analytics              | [Live](https://app-9t1903wr0agx.appmedo.com/dashboard) |
+| **Expirova**              | Never miss an expiry date again. Stay organized, stay informed. | [Live](https://expirova.vercel.app)                    |
 
 </div>
 
@@ -57,16 +57,12 @@
 ## 🗄️ Learning Roadmap
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=27&pause=1200&color=00D9C0&center=true&vCenter=true&width=1100&lines=Learning+with+Consistency+🚀;Building+Skills+Step+by+Step+🧠;From+Foundations+to+Industry+Ready+💼" />
-</p>
-
-<p align="center">
-  <i>✨ Transforming curiosity into capability — one milestone at a time. ✨</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=28&pause=1200&color=B76E79&center=true&vCenter=true&width=1100&lines=Learning+with+Consistency+🚀;Building+Skills+Step+by+Step+🧠;From+Foundations+to+Industry+Ready+💼" />
 </p>
 
 ---
 
-## 🔹 Phase 1: Core Foundations 🧱
+## 🌑 Phase 1: Core Foundations 🧱
 
 * 📜 **HTML • CSS • JavaScript**
 * 💻 **DSA & Problem Solving (C++)**
@@ -75,7 +71,7 @@
 
 ---
 
-## 🟢 Phase 2: Full Stack Development 🌐
+## 🌹 Phase 2: Full Stack Development 🌐
 
 * ⚛️ **React.js**
 * 🟢 **Node.js • Express.js**
@@ -84,7 +80,7 @@
 
 ---
 
-## 🔹 Phase 3: Python, AI & ML 🤖
+## 🌑 Phase 3: Python, AI & ML 🤖
 
 * 🐍 Python programming
 * 📊 Data analysis (NumPy, Pandas)
@@ -93,7 +89,7 @@
 
 ---
 
-## 🟢 Phase 4: Cybersecurity & Networking 🔐
+## 🌹 Phase 4: Cybersecurity & Networking 🔐
 
 * 🌐 Computer networks
 * 🛡️ Cybersecurity fundamentals
@@ -101,7 +97,7 @@
 
 ---
 
-## 🔹 Phase 5: Emerging Technologies 🚀
+## 🌑 Phase 5: Emerging Technologies 🚀
 
 * ☁️ Cloud & DevOps basics
 * ⚙️ System design fundamentals
@@ -109,7 +105,7 @@
 
 ---
 
-## 🟢 Phase 6: Industry Readiness 💼
+## 🌹 Phase 6: Industry Readiness 💼
 
 * 🚀 Major projects & case studies
 * 📄 Resume & portfolio building
@@ -121,25 +117,25 @@
 
 <p align="center">
   <a href="https://github.com/srivastavanandani190-lang">
-    <img src="https://img.shields.io/badge/GitHub-00D9C0?style=for-the-badge&logo=github&logoColor=071B26"/>
+    <img src="https://img.shields.io/badge/GitHub-171116?style=for-the-badge&logo=github&logoColor=E6A6A1"/>
   </a>
   <a href="https://www.linkedin.com/in/nandanisrivastava">
-    <img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=071B26"/>
+    <img src="https://img.shields.io/badge/LinkedIn-B76E79?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/Nandani_31/">
-    <img src="https://img.shields.io/badge/LeetCode-A3E635?style=for-the-badge&logo=leetcode&logoColor=071B26"/>
+    <img src="https://img.shields.io/badge/LeetCode-171116?style=for-the-badge&logo=leetcode&logoColor=D8C3A5"/>
   </a>
   <a href="https://www.codechef.com/users/nandani_31">
-    <img src="https://img.shields.io/badge/CodeChef-00D9C0?style=for-the-badge&logo=codechef&logoColor=071B26"/>
+    <img src="https://img.shields.io/badge/CodeChef-B76E79?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
   <a href="https://www.geeksforgeeks.org/profile/srivastavanandani190">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-38BDF8?style=for-the-badge&logo=geeksforgeeks&logoColor=071B26"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-171116?style=for-the-badge&logo=geeksforgeeks&logoColor=E6A6A1"/>
   </a>
   <a href="https://www.naukri.com/code360/profile/nandanisri">
-    <img src="https://img.shields.io/badge/Code360-A3E635?style=for-the-badge&logo=codingninjas&logoColor=071B26"/>
+    <img src="https://img.shields.io/badge/Code360-B76E79?style=for-the-badge&logo=codingninjas&logoColor=white"/>
   </a>
   <a href="https://www.interviewbit.com/profile/nandani-srivastava/">
-    <img src="https://img.shields.io/badge/InterviewBit-00D9C0?style=for-the-badge&logo=interviewbit&logoColor=071B26"/>
+    <img src="https://img.shields.io/badge/InterviewBit-171116?style=for-the-badge&logo=interviewbit&logoColor=D8C3A5"/>
   </a>
 </p>
 
@@ -148,7 +144,7 @@
 ## 🪀 GitHub Analytics
 
 <p align="center">
-  <img src="https://stats.dooboo.io/api/github-stats?login=srivastavanandani190-lang&theme=dark" height="180" />
+  <img src="https://stats.dooboo.io/api/github-stats?login=srivastavanandani190-lang&theme=dark" height="180"/>
 </p>
 
 ---
@@ -157,7 +153,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=dark&hide_border=true&background=071B26&stroke=00D9C0&ring=00D9C0&fire=A3E635&currStreakLabel=38BDF8&sideLabels=EAFBFF&dates=94A3B8"
+    src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=dark&hide_border=true&background=171116&stroke=B76E79&ring=E6A6A1&fire=FF8C9E&currStreakLabel=E6A6A1&sideLabels=D8C3A5&dates=FFF5F2"
     height="190"
   />
 </p>
@@ -168,7 +164,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavanandani190-lang&bg_color=071B26&color=EAFBFF&line=00D9C0&point=A3E635&area=true&area_color=087E8B&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavanandani190-lang&bg_color=171116&color=E6A6A1&line=B76E79&point=FFF5F2&area=true&hide_border=true"
     width="100%"
     alt="GitHub Activity Graph"
   />
@@ -178,12 +174,10 @@
 
 <div align="center">
 
-### 🌌 "Just one big Win to cancel all the Losses!" 🔥
+### 🥀 "Just one big Win to cancel all the Losses!" ✨
 
-<img src="https://img.shields.io/badge/KEEP-LEARNING-00D9C0?style=for-the-badge&labelColor=071B26"/>
-<img src="https://img.shields.io/badge/KEEP-BUILDING-38BDF8?style=for-the-badge&labelColor=071B26"/>
-<img src="https://img.shields.io/badge/KEEP-GROWING-A3E635?style=for-the-badge&labelColor=071B26"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171116,50:B76E79,100:E6A6A1&height=120&section=footer"/>
+
+**CRAFTED WITH PASSION • DRIVEN BY CURIOSITY**
 
 </div>
-
----
