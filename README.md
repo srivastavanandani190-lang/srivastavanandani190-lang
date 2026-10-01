@@ -141,29 +141,32 @@
 
 <p align="center">
   <a href="https://github.com/srivastavanandani190-lang">
-    <img src="https://img.shields.io/badge/GitHub-0C1019?style=for-the-badge&logo=github&logoColor=C5C8D0"/>
+    <img src="https://img.shields.io/badge/GITHUB-0C1019?style=for-the-badge&labelColor=0C1019&color=E6A2A0&logo=github&logoColor=FFFFFF"/>
   </a>
   <a href="https://www.linkedin.com/in/nandanisrivastava/">
-    <img src="https://img.shields.io/badge/LinkedIn-1B2331?style=for-the-badge&logo=linkedin&logoColor=E6A2A0"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-1B2331?style=for-the-badge&labelColor=1B2331&color=C5C8D0&logo=linkedin&logoColor=FFFFFF"/>
   </a>
   <a href="https://leetcode.com/u/Nandani_31/">
-    <img src="https://img.shields.io/badge/LeetCode-0C1019?style=for-the-badge&logo=leetcode&logoColor=E6A2A0"/>
+    <img src="https://img.shields.io/badge/LEETCODE-0C1019?style=for-the-badge&labelColor=0C1019&color=E6A2A0&logo=leetcode&logoColor=FFFFFF"/>
   </a>
   <a href="https://www.codechef.com/users/nandani_31">
-    <img src="https://img.shields.io/badge/CodeChef-1B2331?style=for-the-badge&logo=codechef&logoColor=C5C8D0"/>
+    <img src="https://img.shields.io/badge/CODECHEF-1B2331?style=for-the-badge&labelColor=1B2331&color=C5C8D0&logo=codechef&logoColor=FFFFFF"/>
   </a>
   <a href="https://www.geeksforgeeks.org/profile/srivastavanandani190">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0C1019?style=for-the-badge&logo=geeksforgeeks&logoColor=E6A2A0"/>
+    <img src="https://img.shields.io/badge/GEEKSFORGEEKS-0C1019?style=for-the-badge&labelColor=0C1019&color=E6A2A0&logo=geeksforgeeks&logoColor=FFFFFF"/>
   </a>
   <a href="https://www.naukri.com/code360/profile/nandanisri">
-    <img src="https://img.shields.io/badge/Code360-1B2331?style=for-the-badge&logo=codingninjas&logoColor=C5C8D0"/>
+    <img src="https://img.shields.io/badge/CODE360-1B2331?style=for-the-badge&labelColor=1B2331&color=C5C8D0&logo=codingninjas&logoColor=FFFFFF"/>
   </a>
   <a href="https://www.interviewbit.com/profile/nandani-srivastava/">
-    <img src="https://img.shields.io/badge/InterviewBit-0C1019?style=for-the-badge&logo=interviewbit&logoColor=E6A2A0"/>
+    <img src="https://img.shields.io/badge/INTERVIEWBIT-0C1019?style=for-the-badge&labelColor=0C1019&color=E6A2A0&logo=interviewbit&logoColor=FFFFFF"/>
   </a>
 </p>
 
 ---
+
+
+ 
 
 ## 📊 GitHub Analytics
 
@@ -204,18 +207,5 @@
 <div align="center">
 
 ### 🌹 JUST ONE BIG WIN TO CANCEL ALL THE LOSSES! 🖤
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&pause=1200&color=E6A2A0&center=true&vCenter=true&width=750&lines=Dream+Big.+Build+Bigger.+🚀;Consistency+Creates+Greatness.;Keep+Learning.+Keep+Building."/>
-</p>
-
-<img src="https://img.shields.io/badge/NEVER-STOP%20LEARNING-0C1019?style=for-the-badge&labelColor=0C1019&color=E6A2A0"/>
-<img src="https://img.shields.io/badge/ALWAYS-KEEP%20BUILDING-1B2331?style=for-the-badge&labelColor=1B2331&color=C5C8D0"/>
-
-<br/><br/>
-
-<sub>✦ Designed with curiosity, consistency & creativity. ✦</sub>
-
-</div>
-
+ 
 <!-- ================= END OF README ================= --> 
