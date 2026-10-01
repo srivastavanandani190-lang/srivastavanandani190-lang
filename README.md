@@ -2,7 +2,7 @@
  
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:1A1033,75:3A0CA3,100:8E7CC3&height=180&section=header&text=NANDANI%20SRIVASTAVA&fontSize=32&fontColor=FFFFFF&fontAlignY=45&desc=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20INNOVATE&descSize=11&descAlignY=72&descColor=D8C8FF"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:1A1033,75:3A0CA3,100:8E7CC3&height=200&section=header&text=NANDANI%20SRIVASTAVA&fontSize=32&fontColor=FFFFFF&fontAlignY=45&desc=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20INNOVATE&descSize=11&descAlignY=72&descColor=D8C8FF"
     width="100%"
   />
 </p>
@@ -152,7 +152,7 @@
   
   </div>
  
- <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E7CC3,45:3A0CA3,75:1A1033,100:050505&height=90&section=footer" width="100%" /> </p>
+ <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E7CC3,45:3A0CA3,75:1A1033,100:050505&height=100&section=footer" width="100%" /> </p>
 
  ---
 
