@@ -1,18 +1,30 @@
-<!-- ================= ARCTIC FROST LUXURY INTRO ================= -->
+<!-- =================================================== -->
+
+<!--              ROSE CHROME EDITION                  -->
+
+<!--       NOIR × MIDNIGHT × SILVER × ROSE              -->
+
+<!-- =================================================== -->
+
+<!-- ================= PREMIUM METALLIC HEADER ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1200&color=7DD3FC&center=true&vCenter=true&width=1100&lines=Hey+There+👋+I'm+Nandani+Srivastava;CSE+Undergraduate+%40+AKTU+University;Full+Stack+Developer+%7C+DSA+%7C+Cybersecurity;Building+Clean+Code+for+Real-World+Impact+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&pause=1200&color=D88D9B&center=true&vCenter=true&width=1100&lines=Hey+There+👋+I'm+Nandani+Srivastava;CSE+Undergraduate+%40+AKTU+University;Full+Stack+Developer+%7C+DSA+%7C+Cybersecurity;Building+Clean+Code+for+Real-World+Impact+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BUILDING-THE%20FUTURE-101D32?style=for-the-badge&labelColor=101D32&color=38BDF8"/>
-  <img src="https://img.shields.io/badge/LEARNING-ALWAYS-101D32?style=for-the-badge&labelColor=101D32&color=7DD3FC"/>
-  <img src="https://img.shields.io/badge/FOCUSED-ON%20GROWTH-101D32?style=for-the-badge&labelColor=101D32&color=CBD5E1"/>
+  <img src="https://img.shields.io/badge/✦_ROSE_CHROME-101116?style=for-the-badge&labelColor=101116&color=D88D9B"/>
+  <img src="https://img.shields.io/badge/CREATING-202738?style=for-the-badge&labelColor=202738&color=C5C7CE"/>
+  <img src="https://img.shields.io/badge/INNOVATING-101116?style=for-the-badge&labelColor=101116&color=D88D9B"/>
+</p>
+
+<p align="center">
+  <i>✦ Turning curiosity into code, and ideas into impact. ✦</i>
 </p>
 
 ---
 
-## ❄️ About Me
+## 🥀 About Me
 
 <p>
   <b>🎓 Computer Science Engineering Student</b>
@@ -37,10 +49,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FRONTEND-38BDF8?style=for-the-badge&logo=react&logoColor=101D32"/>
-  <img src="https://img.shields.io/badge/BACKEND-7DD3FC?style=for-the-badge&logo=nodedotjs&logoColor=101D32"/>
-  <img src="https://img.shields.io/badge/PROGRAMMING-CBD5E1?style=for-the-badge&logo=cplusplus&logoColor=101D32"/>
-  <img src="https://img.shields.io/badge/TOOLS-101D32?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/FRONTEND-101116?style=for-the-badge&logo=react&logoColor=D88D9B"/>
+  <img src="https://img.shields.io/badge/BACKEND-202738?style=for-the-badge&logo=nodedotjs&logoColor=C5C7CE"/>
+  <img src="https://img.shields.io/badge/PROGRAMMING-101116?style=for-the-badge&logo=cplusplus&logoColor=D88D9B"/>
+  <img src="https://img.shields.io/badge/TOOLS-202738?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </p>
 
 ---
@@ -64,12 +76,12 @@
 ## 🧊 Learning Roadmap
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=30&pause=1200&color=7DD3FC&center=true&vCenter=true&width=1100&lines=Learning+with+Consistency+🚀;Building+Skills+Step+by+Step+🧠;From+Foundations+to+Industry+Ready+💼" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=30&pause=1200&color=D88D9B&center=true&vCenter=true&width=1100&lines=Learning+with+Consistency+🚀;Building+Skills+Step+by+Step+🧠;From+Foundations+to+Industry+Ready+💼" />
 </p>
 
 ---
 
-## 🔹 Phase 1: Core Foundations 🧱
+## ⚫ Phase 1: Core Foundations 🧱
 
 * 📜 **HTML • CSS • JavaScript**
 * 💻 **DSA & Problem Solving (C++)**
@@ -78,7 +90,7 @@
 
 ---
 
-## 🔹 Phase 2: Full Stack Development 🌐
+## 🌹 Phase 2: Full Stack Development 🌐
 
 * ⚛️ **React.js**
 * 🟢 **Node.js • Express.js**
@@ -87,7 +99,7 @@
 
 ---
 
-## 🔹 Phase 3: Python, AI & ML 🤖
+## ⚫ Phase 3: Python, AI & ML 🤖
 
 * 🐍 Python programming
 * 📊 Data analysis (NumPy, Pandas)
@@ -96,7 +108,7 @@
 
 ---
 
-## 🔹 Phase 4: Cybersecurity & Networking 🔐
+## 🌹 Phase 4: Cybersecurity & Networking 🔐
 
 * 🌐 Computer networks
 * 🛡️ Cybersecurity fundamentals
@@ -104,7 +116,7 @@
 
 ---
 
-## 🔹 Phase 5: Emerging Technologies 🚀
+## ⚫ Phase 5: Emerging Technologies 🚀
 
 * ☁️ Cloud & DevOps basics
 * ⚙️ System design fundamentals
@@ -112,7 +124,7 @@
 
 ---
 
-## 🔹 Phase 6: Industry Readiness 💼
+## 🌹 Phase 6: Industry Readiness 💼
 
 * 🚀 Major projects & case studies
 * 📄 Resume & portfolio building
@@ -124,25 +136,25 @@
 
 <p align="center">
   <a href="https://github.com/srivastavanandani190-lang">
-    <img src="https://img.shields.io/badge/GitHub-101D32?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/GitHub-101116?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
   </a>
   <a href="https://www.linkedin.com/in/nandanisrivastava">
-    <img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=101D32"/>
+    <img src="https://img.shields.io/badge/LinkedIn-D88D9B?style=for-the-badge&logo=linkedin&logoColor=101116"/>
   </a>
   <a href="https://leetcode.com/u/Nandani_31/">
-    <img src="https://img.shields.io/badge/LeetCode-7DD3FC?style=for-the-badge&logo=leetcode&logoColor=101D32"/>
+    <img src="https://img.shields.io/badge/LeetCode-C5C7CE?style=for-the-badge&logo=leetcode&logoColor=101116"/>
   </a>
   <a href="https://www.codechef.com/users/nandani_31">
-    <img src="https://img.shields.io/badge/CodeChef-CBD5E1?style=for-the-badge&logo=codechef&logoColor=101D32"/>
+    <img src="https://img.shields.io/badge/CodeChef-202738?style=for-the-badge&logo=codechef&logoColor=FFFFFF"/>
   </a>
   <a href="https://www.geeksforgeeks.org/profile/srivastavanandani190">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-101D32?style=for-the-badge&logo=geeksforgeeks&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-D88D9B?style=for-the-badge&logo=geeksforgeeks&logoColor=101116"/>
   </a>
   <a href="https://www.naukri.com/code360/profile/nandanisri">
-    <img src="https://img.shields.io/badge/Code360-38BDF8?style=for-the-badge&logo=codingninjas&logoColor=101D32"/>
+    <img src="https://img.shields.io/badge/Code360-C5C7CE?style=for-the-badge&logo=codingninjas&logoColor=101116"/>
   </a>
   <a href="https://www.interviewbit.com/profile/nandani-srivastava/">
-    <img src="https://img.shields.io/badge/InterviewBit-7DD3FC?style=for-the-badge&logo=interviewbit&logoColor=101D32"/>
+    <img src="https://img.shields.io/badge/InterviewBit-101116?style=for-the-badge&logo=interviewbit&logoColor=D88D9B"/>
   </a>
 </p>
 
@@ -156,11 +168,11 @@
 
 ---
 
-## ❄️ GitHub Streak
+## 🥈 GitHub Streak
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=transparent&hide_border=true&background=101D32&stroke=38BDF8&ring=7DD3FC&fire=38BDF8&currStreakLabel=7DD3FC&sideLabels=CBD5E1&dates=94A3B8"
+    src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=transparent&hide_border=true&background=101116&stroke=D88D9B&ring=C5C7CE&fire=D88D9B&currStreakLabel=D88D9B&sideLabels=C5C7CE&dates=9CA3AF"
     height="190"
   />
 </p>
@@ -171,7 +183,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavanandani190-lang&bg_color=101D32&color=CBD5E1&line=38BDF8&point=7DD3FC&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavanandani190-lang&bg_color=101116&color=C5C7CE&line=D88D9B&point=FFFFFF&area=true&hide_border=true"
     width="100%"
     alt="GitHub Activity Graph"
   />
@@ -181,12 +193,14 @@
 
 <div align="center">
 
-### ❄️ Turning Ideas Into Innovation. One Commit At A Time. ❄️
+### 🥀 JUST ONE BIG WIN TO CANCEL ALL THE LOSSES! 🥀
 
-**🔥 Just One Big Win To Cancel All The Losses! 🔥**
+<p>
+  <i>Dream boldly. Build fearlessly. Keep evolving.</i>
+</p>
 
-<img src="https://img.shields.io/badge/KEEP-CODING-101D32?style=for-the-badge&labelColor=101D32&color=38BDF8"/>
-<img src="https://img.shields.io/badge/KEEP-LEARNING-101D32?style=for-the-badge&labelColor=101D32&color=7DD3FC"/>
+<img src="https://img.shields.io/badge/✦_KEEP_BUILDING_✦-101116?style=for-the-badge&labelColor=101116&color=D88D9B"/>
+<img src="https://img.shields.io/badge/✦_KEEP_GROWING_✦-202738?style=for-the-badge&labelColor=202738&color=C5C7CE"/>
 
 </div>
 
