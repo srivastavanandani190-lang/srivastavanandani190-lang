@@ -2,7 +2,7 @@
  
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:030205,35:10051F,70:240B46,100:32105C&height=115&section=header&text=NANDANI%20SRIVASTAVA&fontSize=34&fontColor=F4ECFF&fontAlignY=48&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:030205,35:10051F,70:240B46,100:32105C&height=180&section=header&text=NANDANI%20SRIVASTAVA&fontSize=34&fontColor=F4ECFF&fontAlignY=48&animation=fadeIn"
     width="100%"
   />
 </p>
@@ -156,7 +156,7 @@
  
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:32105C,30:240B46,70:10051F,100:030205&height=85&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:32105C,30:240B46,70:10051F,100:030205&height=100&section=footer"
     width="100%"
   />
 </p>
