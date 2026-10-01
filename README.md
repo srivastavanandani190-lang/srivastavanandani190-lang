@@ -14,7 +14,7 @@
 
 ---
 
-## 🪻 About Me
+## 🪻About Me
 
 <p>
   🎓 <b>Aspiring Software Engineer | CSE Undergraduate at AKTU University</b>
