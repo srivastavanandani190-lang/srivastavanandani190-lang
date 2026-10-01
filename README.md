@@ -1,4 +1,11 @@
 <!-- ================= DARK MODE INTRO ================= -->
+ 
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:1A1033,75:3A0CA3,100:8E7CC3&height=120&section=header&text=NANDANI%20SRIVASTAVA&fontSize=32&fontColor=FFFFFF&fontAlignY=45&desc=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20INNOVATE&descSize=11&descAlignY=72&descColor=D8C8FF"
+    width="100%"
+  />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1200&color=8E7CC3&center=true&vCenter=true&width=1000&lines=Hey+There+👋+I'm+Nandani+Srivastava;CSE+Undergraduate+%40+AKTU+University;Full+Stack+Developer+%7C+DSA+%7C+Cybersecurity;Building+Clean+Code+for+Real-World+Impact+🚀" />
 </p>
@@ -138,20 +145,6 @@
  
 
 ---
-
-## ♣️ Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavanandani190-lang&theme=github-dark&hide_border=true"
-    width="100%"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
----
-
-
  
    <div align="center">
      
@@ -159,7 +152,7 @@
   
   </div>
  
- 
+ <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E7CC3,45:3A0CA3,75:1A1033,100:050505&height=90&section=footer" width="100%" /> </p>
 
  ---
 
