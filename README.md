@@ -1,33 +1,18 @@
-<!-- ===================================================== -->
-
-<!--       NANDANI | MIDNIGHT ROSE NOIR README             -->
-
-<!--       Midnight • Noir • Dusty Rose • Silver           -->
-
-<!-- ===================================================== -->
-
-<!-- ================= FUTURISTIC HEADER ================= -->
+ <!-- ================= ROSE GOLD NOIR | INTRO ================= -->
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0C1019,35:1B2331,70:252B38,100:E6A2A0&text=NANDANI%20SRIVASTAVA&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=BUILD%20%E2%80%A2%20CREATE%20%E2%80%A2%20INNOVATE&descAlignY=58&descSize=17&animation=fadeIn"
-    width="100%"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=34&pause=1200&color=E6A6A1&center=true&vCenter=true&width=1000&lines=Hey+There+👋+I'm+Nandani+Srivastava;CSE+Undergraduate+%40+AKTU+University;Full+Stack+Developer+%7C+DSA+%7C+Cybersecurity;Building+Clean+Code+for+Real-World+Impact+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1200&color=E6A2A0&center=true&vCenter=true&width=1100&lines=Hey+There+👋+I'm+Nandani+Srivastava;CSE+Undergraduate+%40+AKTU+University;Full+Stack+Developer+%7C+DSA+%7C+Cybersecurity;Building+Clean+Code+for+Real-World+Impact+🚀"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CREATIVITY-UNLIMITED-0C1019?style=for-the-badge&labelColor=0C1019&color=E6A2A0"/>
-  <img src="https://img.shields.io/badge/CONSISTENCY-IS%20KEY-1B2331?style=for-the-badge&labelColor=1B2331&color=C5C8D0"/>
-  <img src="https://img.shields.io/badge/BUILDING-THE%20FUTURE-0C1019?style=for-the-badge&labelColor=0C1019&color=E6A2A0"/>
+  <img src="https://img.shields.io/badge/CREATIVITY-DRIVEN-B76E79?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CODE-WITH%20PURPOSE-D8C3A5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ALWAYS-LEARNING-171116?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🖤 About Me
+## 🥀 About Me
 
 <p>
   <b>🎓 Computer Science Engineering Student</b>
@@ -45,19 +30,10 @@
 
 ---
 
-## ⚙️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,mongodb,tailwind,git,github,linux,mysql,bash,vscode&perline=8"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-0C1019?style=for-the-badge&logo=cplusplus&logoColor=E6A2A0"/>
-  <img src="https://img.shields.io/badge/PYTHON-1B2331?style=for-the-badge&logo=python&logoColor=C5C8D0"/>
-  <img src="https://img.shields.io/badge/REACT-0C1019?style=for-the-badge&logo=react&logoColor=E6A2A0"/>
-  <img src="https://img.shields.io/badge/NODE.JS-1B2331?style=for-the-badge&logo=nodedotjs&logoColor=C5C8D0"/>
-  <img src="https://img.shields.io/badge/MONGODB-0C1019?style=for-the-badge&logo=mongodb&logoColor=E6A2A0"/>
-  <img src="https://img.shields.io/badge/TAILWIND-1B2331?style=for-the-badge&logo=tailwindcss&logoColor=C5C8D0"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,mongodb,tailwind,git,github,linux,mysql,bash,vscode&perline=8" />
 </p>
 
 ---
@@ -66,22 +42,22 @@
 
 <div align="center">
 
-| ⭐ Project                 | 🧩 Description                                                  |                         🔗 Link                        |
-| :------------------------ | :-------------------------------------------------------------- | :----------------------------------------------------: |
-| **LeetCode DSA Tracker**  | Optimized C++ solutions with consistency                        |      [Profile](https://leetcode.com/u/Nandani_31/)     |
-| **Frontend Projects Hub** | Responsive UI, animations & layouts                             |      [Live](https://amazonprojectns.netlify.app/)      |
-| **Moviify App**           | Movie search & recommendation using API                         |      [Live](https://studio-gamma-lac.vercel.app/)      |
+| 🥀 Project                | ✨ Description                                                   | 🔗 Link                                                |
+| :------------------------ | :-------------------------------------------------------------- | :----------------------------------------------------- |
+| **LeetCode DSA Tracker**  | Optimized C++ solutions with consistency                        | [Profile](https://leetcode.com/u/Nandani_31/)          |
+| **Frontend Projects Hub** | Responsive UI, animations & layouts                             | [Live](https://amazonprojectns.netlify.app/)           |
+| **Moviify App**           | Movie search & recommendation using API                         | [Live](https://studio-gamma-lac.vercel.app/)           |
 | **NutriFuel Dashboard**   | Health & nutrition tracking web app with analytics              | [Live](https://app-9t1903wr0agx.appmedo.com/dashboard) |
-| **Expirova**              | Never miss an expiry date again. Stay organized, stay informed. |           [Live](https://expirova.vercel.app)          |
+| **Expirova**              | Never miss an expiry date again. Stay organized, stay informed. | [Live](https://expirova.vercel.app)                    |
 
 </div>
 
 ---
 
-## 🗺️ Learning Roadmap
+## 🗄️ Learning Roadmap
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=29&pause=1200&color=E6A2A0&center=true&vCenter=true&width=1100&lines=Learning+with+Consistency+🚀;Building+Skills+Step+by+Step+🧠;From+Foundations+to+Industry+Ready+💼"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=28&pause=1200&color=B76E79&center=true&vCenter=true&width=1100&lines=Learning+with+Consistency+🚀;Building+Skills+Step+by+Step+🧠;From+Foundations+to+Industry+Ready+💼" />
 </p>
 
 ---
@@ -137,68 +113,60 @@
 
 ---
 
-## 🌐 Connect With Me
+## 👾 Connect With Me
 
 <p align="center">
   <a href="https://github.com/srivastavanandani190-lang">
-    <img src="https://img.shields.io/badge/GITHUB-0C1019?style=for-the-badge&labelColor=0C1019&color=E6A2A0&logo=github&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/GitHub-171116?style=for-the-badge&logo=github&logoColor=E6A6A1"/>
   </a>
-  <a href="https://www.linkedin.com/in/nandanisrivastava/">
-    <img src="https://img.shields.io/badge/LINKEDIN-1B2331?style=for-the-badge&labelColor=1B2331&color=C5C8D0&logo=linkedin&logoColor=FFFFFF"/>
+  <a href="https://www.linkedin.com/in/nandanisrivastava">
+    <img src="https://img.shields.io/badge/LinkedIn-B76E79?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/Nandani_31/">
-    <img src="https://img.shields.io/badge/LEETCODE-0C1019?style=for-the-badge&labelColor=0C1019&color=E6A2A0&logo=leetcode&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/LeetCode-171116?style=for-the-badge&logo=leetcode&logoColor=D8C3A5"/>
   </a>
   <a href="https://www.codechef.com/users/nandani_31">
-    <img src="https://img.shields.io/badge/CODECHEF-1B2331?style=for-the-badge&labelColor=1B2331&color=C5C8D0&logo=codechef&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/CodeChef-B76E79?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
   <a href="https://www.geeksforgeeks.org/profile/srivastavanandani190">
-    <img src="https://img.shields.io/badge/GEEKSFORGEEKS-0C1019?style=for-the-badge&labelColor=0C1019&color=E6A2A0&logo=geeksforgeeks&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-171116?style=for-the-badge&logo=geeksforgeeks&logoColor=E6A6A1"/>
   </a>
   <a href="https://www.naukri.com/code360/profile/nandanisri">
-    <img src="https://img.shields.io/badge/CODE360-1B2331?style=for-the-badge&labelColor=1B2331&color=C5C8D0&logo=codingninjas&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/Code360-B76E79?style=for-the-badge&logo=codingninjas&logoColor=white"/>
   </a>
   <a href="https://www.interviewbit.com/profile/nandani-srivastava/">
-    <img src="https://img.shields.io/badge/INTERVIEWBIT-0C1019?style=for-the-badge&labelColor=0C1019&color=E6A2A0&logo=interviewbit&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/InterviewBit-171116?style=for-the-badge&logo=interviewbit&logoColor=D8C3A5"/>
   </a>
 </p>
 
 ---
 
-
- 
-
-## 📊 GitHub Analytics
+## 🪀 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://stats.dooboo.io/api/github-stats?login=srivastavanandani190-lang&theme=dark"
-    height="180"
-    alt="GitHub Statistics"
-  />
+  <img src="https://stats.dooboo.io/api/github-stats?login=srivastavanandani190-lang&theme=dark" height="180"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## ♟️ GitHub Streak
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=transparent&hide_border=true&background=0C1019&stroke=E6A2A0&ring=E6A2A0&fire=E6A2A0&currStreakLabel=E6A2A0&sideLabels=C5C8D0&dates=8792A5"
+    src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=dark&hide_border=true&background=171116&stroke=B76E79&ring=E6A6A1&fire=FF8C9E&currStreakLabel=E6A6A1&sideLabels=D8C3A5&dates=FFF5F2"
     height="190"
-    alt="GitHub Streak"
   />
 </p>
 
 ---
 
-## ♟️ Contribution Activity
+## ♣️ Contribution Activity
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavanandani190-lang&bg_color=0C1019&color=C5C8D0&line=E6A2A0&point=FFFFFF&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavanandani190-lang&bg_color=171116&color=E6A6A1&line=B76E79&point=FFF5F2&area=true&hide_border=true"
     width="100%"
-    alt="GitHub Contribution Activity Graph"
+    alt="GitHub Activity Graph"
   />
 </p>
 
@@ -206,6 +174,10 @@
 
 <div align="center">
 
-### 🌹 JUST ONE BIG WIN TO CANCEL ALL THE LOSSES! 🖤
- 
-<!-- ================= END OF README ================= --> 
+### 🥀 "Just one big Win to cancel all the Losses!" ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171116,50:B76E79,100:E6A6A1&height=120&section=footer"/>
+
+**CRAFTED WITH PASSION • DRIVEN BY CURIOSITY**
+
+</div>
