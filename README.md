@@ -9,23 +9,26 @@
  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1200&color=8E7CC3&center=true&vCenter=true&width=1000&lines=Hey+There+👋+I'm+Nandani+Srivastava;CSE+Undergraduate+%40+AKTU+University;Full+Stack+Developer+%7C+DSA+%7C+Cybersecurity;Building+Clean+Code+for+Real-World+Impact+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1200&color=8E7CC3&center=true&vCenter=true&width=1000&lines=Hey+There+🛡️+I'm+Nandani+Srivastava;CSE+Undergraduate+%40+AKTU+University;Full+Stack+Developer+%7C+DSA+%7C+Cybersecurity;Building+Clean+Code+for+Real-World+Impact+🚀" />
 </p>
 
 ---
 
-## 🪻About Me
+## 🪻 About Me
 
 <p>
-  <b>🎓 Computer Science Engineering Student</b>  
+  🎓 <b>Aspiring Software Engineer | CSE Undergraduate at AKTU University</b>
+  <br/><br/>
+  💻 Passionate about <b>Software Development, Cybersecurity & Problem Solving.</b>
   <br/>
-  <b>📍 AKTU University</b> <br/>
-  💡 <b>Passionate about:</b> Full Stack Development • DSA (C++) • Cybersecurity • Networking  
+  🛠️ Skilled in <b>C++, Java, Python, DSA, Frontend Development & Computer Networking.</b>
   <br/>
-  🌱 <b>Currently exploring:</b> MERN Stack • System-Level Concepts • Security Tools  
+  🌱 Exploring <b>MERN Stack, System-Level Concepts & Cybersecurity Tools.</b>
   <br/>
-  🚀 <b>I enjoy:</b> Building real-world products • Open Source • Problem Solving  
+  🚀 Interested in building <b>secure, scalable and impactful real-world solutions.</b>
   <br/>
+  🤝 Enthusiastic about <b>Open Source, Continuous Learning & Collaborative Development.</b>
+  <br/><br/>
   ✨ <i>"Curiosity fuels progress."</i>
 </p>
 
